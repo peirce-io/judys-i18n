@@ -228,7 +228,7 @@ msgstr "제목이 없습니다"
 #: r2/controllers/promotecontroller.py:1299 r2/lib/pages/pages.py:5000
 #: ../../reddit-plugin-liveupdate/reddit_liveupdate/controllers.py:456
 msgid "saved"
-msgstr "보관했습니다"
+msgstr "보관"
 
 #: r2/controllers/api.py:1199
 msgid "all other sessions have been signed out"
@@ -3591,28 +3591,28 @@ msgstr "계정 활동"
 
 #: r2/lib/pages/pages.py:4985
 msgid "subscribed"
-msgstr "구독된"
+msgstr "구독"
 
 #: r2/lib/pages/pages.py:4986 r2/templates/preffeeds.html:55
 msgid "your front page"
-msgstr "당신의 대문"
+msgstr "구독된 게시판에서"
 
 #: r2/lib/pages/pages.py:4989 r2/lib/pages/pages.py:4994
 #: r2/templates/preffeeds.html:78 r2/templates/preffeeds.html:101
 msgid "everything"
-msgstr "모든것"
+msgstr "전체"
 
 #: r2/lib/pages/pages.py:4992 r2/lib/pages/pages.py:4995
 msgid "from all subreddits"
-msgstr "모든 서브레딧에서"
+msgstr "전체 게시판에서"
 
 #: r2/lib/pages/pages.py:4997
 msgid "moderating"
-msgstr "관리하는"
+msgstr "관리"
 
 #: r2/lib/pages/pages.py:4998
 msgid "subreddits you mod"
-msgstr "관리 중인 서브레딧"
+msgstr "관리 중인 게시판에서"
 
 #: r2/lib/pages/pages.py:5004
 msgid "gold perks"
