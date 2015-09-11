@@ -7186,7 +7186,7 @@ msgstr "enter your email"
 #: r2/templates/newsletter.html:64 r2/templates/newsletterbar.html:50
 #: r2/templates/subscribebutton.html:30
 msgid "subscribe"
-msgstr "등록"
+msgstr "구독"
 
 #: r2/templates/newsletter.html:67
 msgid "More Info"
