@@ -2011,7 +2011,7 @@ msgstr "감점"
 
 #: r2/lib/menus.py:52 r2/templates/widgetdemopanel.html:178
 msgid "top"
-msgstr "고득점"
+msgstr "추천수"
 
 #: r2/lib/menus.py:53 r2/templates/searchresultlink.html:122
 msgid "more"
