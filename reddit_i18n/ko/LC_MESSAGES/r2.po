@@ -425,7 +425,7 @@ msgstr "%d개 보기"
 
 #: r2/controllers/front.py:464 r2/controllers/front.py:467
 msgid "create a subreddit"
-msgstr "서브레딧 만들기"
+msgstr "게시판 만들기"
 
 #: r2/controllers/front.py:572 r2/controllers/front.py:578
 #: r2/controllers/listingcontroller.py:716 r2/controllers/listingcontroller.py:731
@@ -3230,7 +3230,7 @@ msgstr "Shop the reddit Marketplace"
 
 #: r2/lib/pages/pages.py:697
 msgid "Create your own subreddit"
-msgstr "하위 레딧 만들기 "
+msgstr "새로운 게시판 만들기 "
 
 #: r2/lib/pages/pages.py:714
 #, python-format
@@ -4947,7 +4947,7 @@ msgstr "Change editors and visibility of wiki pages in subreddits I moderate."
 
 #: r2/models/token.py:212
 msgid "My Subreddits"
-msgstr "내 서브레딧들"
+msgstr "내 게시판들"
 
 #: r2/models/token.py:213
 msgid "Access the list of subreddits I moderate, contribute to, and subscribe to."
