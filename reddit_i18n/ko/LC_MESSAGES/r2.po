@@ -27,15 +27,15 @@ msgstr "멋진 커뮤니티를 지원합니다."
 #: ../../reddit-plugin-about/reddit_about/pages.py:18
 #: ../../reddit-plugin-about/reddit_about/pages.py:24
 msgid "about reddit"
-msgstr "레딧에 대하여"
+msgstr "주디스에 대하여"
 
 #: ../../reddit-plugin-about/reddit_about/about.py:87
 msgid "we spend our days building reddit."
-msgstr "우리는 레딧을 만들며 하루하루를 보냅니다."
+msgstr "우리는 주디스를 만들며 하루하루를 보냅니다."
 
 #: ../../reddit-plugin-about/reddit_about/about.py:88
 msgid "about the reddit team"
-msgstr "레딧 팀에 대하여"
+msgstr "주디스 팀에 대하여"
 
 #: ../../reddit-plugin-about/reddit_about/about.py:97
 #, python-format
@@ -57,7 +57,7 @@ msgstr "외계인"
 
 #: ../../reddit-plugin-about/reddit_about/about.py:114
 msgid "new to reddit? welcome."
-msgstr "레딧이 처음이신가요? 환영합니다."
+msgstr "주디스가 처음이신가요? 환영합니다."
 
 #: ../../reddit-plugin-about/reddit_about/about.py:115
 msgid "guide"
@@ -108,7 +108,7 @@ msgstr "%(user)s님께서 올리신 링크"
 
 #: ../../reddit-plugin-about/reddit_about/templates/about.html:80
 msgid "how reddit works"
-msgstr "레딧이 돌아가는 원리"
+msgstr "주디스가 돌아가는 원리"
 
 #: ../../reddit-plugin-about/reddit_about/templates/about.html:82
 msgid "**redditors vote** on which stories and discussions are important. the hottest stories rise to the top, while cooler stories sink."
@@ -116,7 +116,7 @@ msgstr "**투표** 는 중요한 이야기나 토의에 합니다. 가장 인기
 
 #: ../../reddit-plugin-about/reddit_about/templates/about.html:83
 msgid "**comments can be posted on every story** on reddit. comments add information, context, and humor."
-msgstr "**레딧에 있는 모든 이야기에는 댓글을 달 수 있습니다**. 댓글은 전후 맥락이나, 유머, 정보를 추가할 수 있습니다."
+msgstr "**주디스에 있는 모든 이야기에는 댓글을 달 수 있습니다**. 댓글은 전후 맥락이나, 유머, 정보를 추가할 수 있습니다."
 
 #: ../../reddit-plugin-about/reddit_about/templates/about.html:84
 msgid "**anyone can create a community** (called \"subreddits\"). each subreddit is independent and moderated by a team of volunteers."
@@ -124,7 +124,7 @@ msgstr "**누구나 커뮤니티를 만들 수 있습니다** (\"서브레딧\"�
 
 #: ../../reddit-plugin-about/reddit_about/templates/about.html:85
 msgid "**reddit is open source**. community members are constantly tinkering and contributing features, bug fixes, and translations back to the site."
-msgstr "**레딧은 오픈 소스 사이트 입니다**. 커뮤니티 회원들은 지속적으로 기능을 추가하거나 버그 수정, 번역에 기여할 수 있습니다."
+msgstr "**주디스는 오픈 소스 사이트 입니다**. 커뮤니티 회원들은 지속적으로 기능을 추가하거나 버그 수정, 번역에 기여할 수 있습니다."
 
 #: ../../reddit-plugin-about/reddit_about/templates/about.html:88
 msgid "stats at a glance"
@@ -138,7 +138,7 @@ msgstr "%(value)s 현재"
 #: ../../reddit-plugin-about/reddit_about/templates/about.html:94
 #, python-format
 msgid "**last month**, reddit had %(value)s unique visitors"
-msgstr "**지난달**, 레딧은 %(value)s명의 고유 방문자가 있었습니다."
+msgstr "**지난달**, 주디스는 %(value)s명의 고유 방문자가 있었습니다."
 
 #: ../../reddit-plugin-about/reddit_about/templates/about.html:95
 #, python-format
@@ -153,7 +153,7 @@ msgstr "총 %(value)s개의 페이지를 보았습니다."
 #: ../../reddit-plugin-about/reddit_about/templates/about.html:99
 #, python-format
 msgid "**yesterday**, reddit powered %(value)s active communities"
-msgstr "**어제**, 레딧은 %(value)s개의 활성화된 커뮤니티를 지원했습니다"
+msgstr "**어제**, 주디스는 %(value)s개의 활성화된 커뮤니티를 지원했습니다"
 
 #: ../../reddit-plugin-about/reddit_about/templates/about.html:99
 msgid "communities with at least 5 posts or comments yesterday"
@@ -166,7 +166,7 @@ msgstr "%(value)s명이 넘는 레디터들로 이루어져있고"
 
 #: ../../reddit-plugin-about/reddit_about/templates/about.html:100
 msgid "logged-in redditors yesterday"
-msgstr "어제 로그인한 레딧 사용자들"
+msgstr "어제 로그인한 주디스 사용자들"
 
 #: ../../reddit-plugin-about/reddit_about/templates/about.html:101
 #, python-format
@@ -364,11 +364,11 @@ msgstr "API 문서"
 
 #: r2/controllers/buttons.py:109
 msgid "reddit buttons"
-msgstr "레딧 단추"
+msgstr "주디스 버튼"
 
 #: r2/controllers/buttons.py:114
 msgid "reddit widget"
-msgstr "레딧 위짓"
+msgstr "주디스 위젯"
 
 #: r2/controllers/buttons.py:119
 msgid "bookmarklets"
@@ -521,7 +521,7 @@ msgstr "reddit의 규칙"
 
 #: r2/controllers/front.py:1395
 msgid "Claimed! Enjoy your reddit gold membership."
-msgstr "등록되었습니다! 레딧 골드 멤버십을 즐기세요."
+msgstr "등록되었습니다! 주디스 골드 멤버십을 즐기세요."
 
 #: r2/controllers/front.py:1399
 msgid "Your gold creddits have been claimed! Now go to someone's userpage and give them a present!"
@@ -529,16 +529,16 @@ msgstr "골드 크레딧이 충전되었습니다! 다른 사용자의 사용자
 
 #: r2/controllers/front.py:1402
 msgid "Thanks for buying reddit gold! Your transaction has been completed."
-msgstr "레딧 골드를 구입해 주셔서 감사합니다! 결제가 완료되었습니다."
+msgstr "주디스 골드를 구입해 주셔서 감사합니다! 결제가 완료되었습니다."
 
 #: r2/controllers/front.py:1405
 msgid "Thanks for buying reddit gold! Your transaction has been completed and emailed to you. You can check the details by signing into your account at:"
-msgstr "레딧 골드를 구입해 주셔서 감사합니다! 결제가 완료되었으며 정보를 메일로 발송해 드렸습니다. 자세한 내용은 아래 계정에서 확인 가능하십니다:"
+msgstr "주디스 골드를 구입해 주셔서 감사합니다! 결제가 완료되었으며 정보를 메일로 발송해 드렸습니다. 자세한 내용은 아래 계정에서 확인 가능하십니다:"
 
 #: r2/controllers/front.py:1411
 #, python-format
 msgid "Thanks for buying reddit gold! Your transaction is being processed. If you have any questions please email us at %(gold_email)s"
-msgstr "레딧 골드를 구입해 주셔서 감사합니다! 결제를 처리중입니다. 궁금하신 게 있으시면 %(gold_email)s 로 문의해 주세요."
+msgstr "주디스 골드를 구입해 주셔서 감사합니다! 결제를 처리중입니다. 궁금하신 게 있으시면 %(gold_email)s 로 문의해 주세요."
 
 #: r2/controllers/front.py:1418 r2/controllers/front.py:1720
 msgid "thanks"
@@ -595,7 +595,7 @@ msgstr "안녕하십니까?"
 #: r2/templates/gold.html:27 r2/templates/goldpayment.html:37
 #: r2/templates/goldthanks.html:26 r2/templates/prefoptions.html:396
 msgid "reddit gold"
-msgstr "레딧 골드"
+msgstr "주디스 골드"
 
 #: r2/controllers/front.py:1904 r2/templates/gilding.html:76
 msgid "purchase creddits"
@@ -612,7 +612,7 @@ msgstr "익명의 레디터"
 #: r2/controllers/ipn.py:301
 #, python-format
 msgid "Let there be gold! %s just sent you reddit gold!"
-msgstr "골드가 있으라! %s가 당신에게 레딧 골드를 보냈습니다!"
+msgstr "골드가 있으라! %s가 당신에게 주디스 골드를 보냈습니다!"
 
 #: r2/controllers/ipn.py:306
 msgid "Your comment has been gilded!"
@@ -631,7 +631,7 @@ msgstr "당신의 골드 기프트 코드가 생성되었습니다!"
 msgid "Here is your gift code for %(amount)s of reddit gold:\n\n"
 "%(code)s\n\n"
 "The recipient (or you!) can enter it at http://www.reddit.com/gold or go directly to http://www.reddit.com/thanks/%(code)s to claim it."
-msgstr "여기 %(amount)s 레딧 골드 기프트 코드가 있습니다:\n\n"
+msgstr "여기 %(amount)s 주디스 골드 기프트 코드가 있습니다:\n\n"
 "%(code)s\n\n"
 "받으시는 분(혹은 당신)은 http://www.reddit.com/gold에 가셔서 입력하시거나 http://www.reddit.com/thanks/%(code)s로 가셔서 청구하실 수 있습니다."
 
@@ -645,7 +645,7 @@ msgstr "이 유저는 자신의 계정을 삭제했습니다."
 
 #: r2/controllers/ipn.py:435 r2/controllers/ipn.py:449
 msgid "the gold has been delivered!"
-msgstr "레딧 골드가 전송되었습니다."
+msgstr "주디스 골드가 전송되었습니다."
 
 #: r2/controllers/ipn.py:440
 #, python-format
@@ -658,19 +658,19 @@ msgstr "당신에게 기프트 코드가 메세지로 보내졌습니다!"
 
 #: r2/controllers/ipn.py:585
 msgid "Eureka! Thank you for investing in reddit gold!"
-msgstr "유레카! 레딧 골드를 구입해 주셔서 감사합니다!"
+msgstr "유레카! 주디스 골드를 구입해 주셔서 감사합니다!"
 
 #: r2/controllers/ipn.py:587
 msgid "Thank you for buying reddit gold. Your patronage supports the site and makes future development possible. For example, one month of reddit gold pays for 5 instance hours of reddit's servers."
-msgstr "레딧 골드를 구매해 주셔서 감사합니다. 당신의 기부금은 사이트를 후원하며 레딧의 차후 개발을 가능하게 만들어 줍니다. 예를 들어, 1개월의 레딧 골드는 레딧 서버의 5시간에 해당하는 금액입니다."
+msgstr "주디스 골드를 구매해 주셔서 감사합니다. 당신의 기부금은 사이트를 후원하며 주디스의 차후 개발을 가능하게 만들어 줍니다. 예를 들어, 1개월의 주디스 골드는 주디스 서버의 5시간에 해당하는 금액입니다."
 
 #: r2/controllers/ipn.py:597
 msgid "Eureka! Thank you for investing in reddit gold creddits!"
-msgstr "유레카! 레딧 골드 크레딧에 투자해주셔서 감사합니다!"
+msgstr "유레카! 주디스 골드 크레딧에 투자해주셔서 감사합니다!"
 
 #: r2/controllers/ipn.py:600
 msgid "Thank you for buying creddits. Your patronage supports the site and makes future development possible. To spend your creddits and spread reddit gold, visit [/gold](/gold) or your favorite person's user page."
-msgstr "크레딧을 구매해 주셔서 감사합니다. 당신의 기부금은 사이트를 후원하며 레딧의 차후 개발을 가능하게 만들어 줍니다. 크레딧을 사용하고 레딧 골드를 퍼뜨리려면, [/gold](/gold) 문서나 좋아하는 사람의 사용자 페이지에 가세요."
+msgstr "크레딧을 구매해 주셔서 감사합니다. 당신의 기부금은 사이트를 후원하며 주디스의 차후 개발을 가능하게 만들어 줍니다. 크레딧을 사용하고 레주디스골드를 퍼뜨리려면, [/gold](/gold) 문서나 좋아하는 사람의 사용자 페이지에 가세요."
 
 #: r2/controllers/ipn.py:606 r2/controllers/ipn.py:628
 #: r2/templates/goldgiftcodeemail.email:25
@@ -679,7 +679,7 @@ msgstr "당신의 지원에 다시 한 번 감사드리며, 골드를 퍼뜨리�
 
 #: r2/controllers/ipn.py:622
 msgid "Thanks for giving the gift of reddit gold!"
-msgstr "레딧 골드를 선물해 주셔서 감사합니다!"
+msgstr "주디스 골드를 선물해 주셔서 감사합니다!"
 
 #: r2/controllers/ipn.py:623
 #, python-format
@@ -690,39 +690,39 @@ msgstr "Your classy gift to %s has been delivered.\n\n"
 
 #: r2/controllers/ipn.py:752
 msgid "reddit gold payment cancelled"
-msgstr "레딧 골드 지불이 취소되었습니다"
+msgstr "주디스 골드 지불이 취소되었습니다"
 
 #: r2/controllers/ipn.py:753
 #, python-format
 msgid "Your reddit gold payment has been cancelled, contact %(gold_email)s for details"
-msgstr "당신의 레딧 골드 지불이 취소되었습니다. 자세한 사항은 %(gold_email)s에게 문의하세요"
+msgstr "당신의 주디스 골드 지불이 취소되었습니다. 자세한 사항은 %(gold_email)s에게 문의하세요"
 
 #: r2/controllers/ipn.py:768
 msgid "reddit gold payment failed"
-msgstr "레딧 골드 지불이 실패하였습니다"
+msgstr "주디스 골드 지불이 실패하였습니다"
 
 #: r2/controllers/ipn.py:769
 #, python-format
 msgid "Your reddit gold payment has failed, contact %(gold_email)s for details"
-msgstr "당신의 레딧 골드 지불이 실패하였습니다. 자세한 사항은 %(gold_email)s에게 문의하세요"
+msgstr "당신의 주디스 골드 지불이 실패하였습니다. 자세한 사항은 %(gold_email)s에게 문의하세요"
 
 #: r2/controllers/ipn.py:777
 msgid "reddit gold subscription cancelled"
-msgstr "레딧 골드 구독 해지됨"
+msgstr "주디스 골드 구독 해지됨"
 
 #: r2/controllers/ipn.py:778
 #, python-format
 msgid "Your reddit gold subscription has been cancelled because your credit card could not be charged. Contact %(gold_email)s for details"
-msgstr "신용카드의 잔액이 부족하여 레딧 골드 구독이 취소되었습니다. 자세한 사항은 %(gold_email)s로 문의하십시오."
+msgstr "신용카드의 잔액이 부족하여 주디스 골드 구독이 취소되었습니다. 자세한 사항은 %(gold_email)s로 문의하십시오."
 
 #: r2/controllers/ipn.py:788
 msgid "reddit gold refund"
-msgstr "레딧 골드 환불"
+msgstr "주디스 골드 환불"
 
 #: r2/controllers/ipn.py:789
 #, python-format
 msgid "Your reddit gold payment has been refunded, contact %(gold_email)s for details"
-msgstr "당신의 레딧 골드 지불이 환불되었습니다. 자세한 사항은 %(gold_email)s에게 문의하세요"
+msgstr "당신의 주디스 골드 지불이 환불되었습니다. 자세한 사항은 %(gold_email)s에게 문의하세요"
 
 #: r2/controllers/ipn.py:900
 #, python-format
@@ -768,7 +768,7 @@ msgstr "뭔가 안 좋은 일이 일어났군요, 나중에 다시 시도해 보
 
 #: r2/controllers/ipn.py:1133
 msgid "your account already has a gold subscription"
-msgstr "이 계정은 이미 레딧 골드를 구독하고 있습니다."
+msgstr "이 계정은 이미 주디스 골드를 구독하고 있습니다."
 
 #: r2/controllers/ipn.py:1139
 msgid "stop trying to trick the form"
@@ -780,7 +780,7 @@ msgstr "구독 생성됨"
 
 #: r2/controllers/ipn.py:1160
 msgid "Your subscription is being processed and reddit gold will be delivered shortly."
-msgstr "구독이 완료되었습니다. 레딧 골드가 곧 지급될 예정입니다."
+msgstr "구독이 완료되었습니다. 주디스 골드가 곧 지급될 예정입니다."
 
 #: r2/controllers/ipn.py:1168
 msgid "payment submitted"
@@ -788,11 +788,11 @@ msgstr "결제 전송됨"
 
 #: r2/controllers/ipn.py:1169
 msgid "reddit gold payment"
-msgstr "레딧 금화 지불"
+msgstr "주디스 금화 지불"
 
 #: r2/controllers/ipn.py:1170
 msgid "Your payment is being processed and reddit gold will be delivered shortly."
-msgstr "지불이 완료되었습니다. 레딧 골드가 곧 지급될 예정입니다."
+msgstr "지불이 완료되었습니다. 주디스 골드가 곧 지급될 예정입니다."
 
 #: r2/controllers/ipn.py:1187
 msgid "your payment details have been updated"
@@ -934,7 +934,7 @@ msgstr "골드"
 #: r2/controllers/listingcontroller.py:1776
 #, python-format
 msgid "gildings in this subreddit have paid for %(time)s of server time"
-msgstr "이 서브레딧의 gilding은 레딧 서버의 %(time)s 시간만큼을 지불했습니다."
+msgstr "이 서브레딧의 gilding은 주디스 서버의 %(time)s 시간만큼을 지불했습니다."
 
 #: r2/controllers/multi.py:350
 #, python-format
@@ -1028,7 +1028,7 @@ msgstr "사기로 추정되는 광고 링크"
 
 #: r2/controllers/promotecontroller.py:419
 msgid "promos on reddit"
-msgstr "레딧에 있는 홍보"
+msgstr "주디스에 있는 홍보"
 
 #: r2/controllers/promotecontroller.py:596
 msgid "target oversold, can't freebie"
@@ -1585,7 +1585,7 @@ msgstr "API를 통해 행동을 행할수 없습니다"
 #: r2/lib/errors.py:128
 #, python-format
 msgid "%(domain)s is not allowed on reddit: %(reason)s"
-msgstr "%(domain)s 은/는 레딧에서 허용되지 않습니다: %(reason)s"
+msgstr "%(domain)s 은/는 주디스에서 허용되지 않습니다: %(reason)s"
 
 #: r2/lib/errors.py:129
 msgid "you must enable two-factor authentication"
@@ -2116,15 +2116,15 @@ msgstr "레디켓"
 
 #: r2/lib/menus.py:88
 msgid "buttons"
-msgstr "레딧 단추"
+msgstr "주디스 버튼"
 
 #: r2/lib/menus.py:89
 msgid "widget"
-msgstr "레딧 위짓"
+msgstr "주디스 위젯"
 
 #: r2/lib/menus.py:90
 msgid "mobile"
-msgstr "레딧 모바일"
+msgstr "주디스 모바일"
 
 #: r2/lib/menus.py:91
 msgid "advertise"
@@ -2304,7 +2304,7 @@ msgstr "위키 페이지 목록"
 
 #: r2/lib/menus.py:149
 msgid "popular"
-msgstr "인기 레딧"
+msgstr "인기 주디스"
 
 #: r2/lib/menus.py:150 r2/public/static/js/sponsored.js:85
 #: r2/public/static/js/sponsored.js:95 r2/templates/createsubreddit.html:656
@@ -2663,7 +2663,7 @@ msgstr "관리자에 의해 비공개된 서브레딧입니다. 관리자와 승
 #: r2/lib/strings.py:112
 #, python-format
 msgid "The following is a sample of what Reddit users had to say about this page. The full discussion is available [here](%(fd_link)s); you can also get there by clicking the link's title (in the middle of the toolbar, to the right of the comments button)."
-msgstr "아래는 이 페이지에 대한 레딧 이용자들의 의견을 일부 보여드린 것입니다. 논의된 내용을 보시려면 [여기](%(fd_link)s)를 클릭하시거나, 링크의 제목을 (툴바 중간, 댓글 버튼 우측에 위치) 클릭하셔도 됩니다."
+msgstr "아래는 이 페이지에 대한 주디스 이용자들의 의견을 일부 보여드린 것입니다. 논의된 내용을 보시려면 [여기](%(fd_link)s)를 클릭하시거나, 링크의 제목을 (툴바 중간, 댓글 버튼 우측에 위치) 클릭하셔도 됩니다."
 
 #: r2/lib/strings.py:114
 msgid "You are submitting a link. The key to a successful submission is interesting content and a descriptive title."
@@ -2684,7 +2684,7 @@ msgstr "새 글 올리기"
 #: r2/lib/strings.py:118
 #, python-format
 msgid "Looks like you're browsing on a small screen. Would you like to try [reddit's mobile interface](%(url)s)?"
-msgstr "작은 화면으로 보고 계시는가 봅니다. [레딧 모바일 인터페이스](%(url)s)로 한번 해보시겠습니까?"
+msgstr "작은 화면으로 보고 계시는가 봅니다. [주디스 모바일 인터페이스](%(url)s)로 한번 해보시겠습니까?"
 
 #: r2/lib/strings.py:119
 msgid "we're going to need to verify your email address for you to proceed."
@@ -2692,7 +2692,7 @@ msgstr "계속하기 위해서 이메일 주소 확인이 필요합니다"
 
 #: r2/lib/strings.py:120
 msgid "you'll be able to submit more frequently once you verify your email address"
-msgstr "이메일 주소를 인증하면 더 자주 레딧에 글을 등록할 수 있습니다"
+msgstr "이메일 주소를 인증하면 더 자주 주디스에 글을 등록할 수 있습니다"
 
 #: r2/lib/strings.py:121
 msgid "your email address has been verified"
@@ -2751,10 +2751,10 @@ msgid "reddit gold is reddit's premium membership program. Here are the benefits
 "* [Extra site features](/gold/about)\n"
 "* [Extra perks](/gold/partners)\n"
 "* Discuss and get help on the features and perks at /r/goldbenefits"
-msgstr "레딧 골드는 레딧의 프리미엄 멤버쉽 프로그램입니다. 레딧 골드의 좋은 점:\n\n"
+msgstr "주디스 골드는 주디스의 프리미엄 멤버쉽 프로그램입니다. 주디스 골드의 좋은 점:\n\n"
 "* [더 많은 사이트 기능](/gold/about)\n"
 "* [더 많은 것들](/gold/partners)\n"
-"* /r/goldbenefits에서 레딧 골드의 기능에 대한 도움말을 얻으세요."
+"* /r/goldbenefits에서 주디스 골드의 기능에 대한 도움말을 얻으세요."
 
 #: r2/lib/strings.py:135
 msgid "Grab a drink and join us in /r/lounge, the super-secret members-only community that may or may not exist."
@@ -2767,7 +2767,7 @@ msgstr "오호! 엽서 (아님 비슷한..)를 보내주셨네요! 저희 냉장
 #: r2/lib/strings.py:137
 #, python-format
 msgid "Sorry, the maximum number of comments is %(max)d. (However, if you subscribe to reddit gold, it goes up to %(goldmax)d.)"
-msgstr "죄송합니다, 최대 코멘트 숫자는 %(max)d입니다. (그러나 레딧골드회원이시면 %(goldmax)d까지 올릴 수 있습니다.)"
+msgstr "죄송합니다, 최대 코멘트 숫자는 %(max)d입니다. (그러나 주디스 골드회원이시면 %(goldmax)d까지 올릴 수 있습니다.)"
 
 #: r2/lib/strings.py:138
 #, python-format
@@ -2777,7 +2777,7 @@ msgstr "죄송합니다, 최대 코멘트 갯수는 %d입니다."
 #: r2/lib/strings.py:139
 #, python-format
 msgid "%(sender)s just gifted you %(amount)s of reddit gold!"
-msgstr "%(sender)s 님이 방금 당신에게 레딧 골드 %(amount)s 개를 선물하셨습니다."
+msgstr "%(sender)s 님이 방금 당신에게 주디스 골드 %(amount)s 개를 선물하셨습니다."
 
 #: r2/lib/strings.py:140
 msgid "Here's a note that was included:\n\n"
@@ -2844,7 +2844,7 @@ msgstr "You're about to give %(amount)s of reddit gold to %(recipient)s. It will
 #: r2/lib/strings.py:153
 #, python-format
 msgid "Want to say thanks to *%(recipient)s* for this comment? Give them a month of [reddit gold](/gold/about)."
-msgstr "이 댓글로 *%(recipient)s*에게 감사 인사를 하시겠습니까? [레딧 골드](/gold/about) 1개월분 선물하기"
+msgstr "이 댓글로 *%(recipient)s*에게 감사 인사를 하시겠습니까? [주디스 골드](/gold/about) 1개월분 선물하기"
 
 #: r2/lib/strings.py:154
 #, python-format
@@ -2877,7 +2877,7 @@ msgstr "이 페이지는 당신의 최근 활동을 보여줍니다. 수상한 �
 #: r2/lib/strings.py:160
 #, python-format
 msgid "You are currently accessing reddit from this IP address: %(address)s."
-msgstr "현재 레딧에 접속중인 IP 주소 : %(address)s"
+msgstr "현재 주디스에 접속중인 IP 주소 : %(address)s"
 
 #: r2/lib/strings.py:161
 msgid "\n"
@@ -2937,11 +2937,11 @@ msgstr "/r/all displays content from all of reddit, including subreddits you are
 
 #: r2/lib/strings.py:186
 msgid "Displaying content from /r/all of reddit, except the following subreddits:"
-msgstr "-------------------------the subreddits you are not displaying-------------------------------을 제외하고 레딧의 r/all에서의 콘텐츠를 표시합니다"
+msgstr "-------------------------the subreddits you are not displaying-------------------------------을 제외하고 주디스의 r/all에서의 콘텐츠를 표시합니다"
 
 #: r2/lib/strings.py:187
 msgid "Filtering /r/all is a feature only available to [reddit gold](/gold/about) subscribers. Displaying unfiltered results from /r/all."
-msgstr "/r/all 를 필터링하는 기능은 [레딧 골드](/gold/about) 회원에게만 제공됩니다. /r/all 결과 전부 표시중."
+msgstr "/r/all 를 필터링하는 기능은 [주디스 골드](/gold/about) 회원에게만 제공됩니다. /r/all 결과 전부 표시중."
 
 #: r2/lib/strings.py:265 r2/templates/comment.htmllite:58
 #: r2/templates/linkinfobar.html:48 r2/templates/searchresultlink.html:89
@@ -3114,7 +3114,7 @@ msgstr "관리자로부터의 참고 사항:"
 
 #: r2/lib/system_messages.py:127
 msgid "you can contact the moderators regarding your ban by replying to this message. **warning**: using other accounts to circumvent a subreddit ban is considered a violation of reddit's [site rules](/rules) and can result in being banned from reddit entirely."
-msgstr "이 메시지에 답함으로써 관리자에게 차단에 대해 문의할 수 있습니다. **경고**: 서브레딧 차단을 회피하기 위해 다른 계정을 사용하는 행위는 레딧의 [사이트 규정](/rules)에 위반되는 행위이며, 레딧 전체에서 차단되는 결과를 불러올 수 있습니다."
+msgstr "이 메시지에 답함으로써 관리자에게 차단에 대해 문의할 수 있습니다. **경고**: 서브레딧 차단을 회피하기 위해 다른 계정을 사용하는 행위는 주디스의 [사이트 규정](/rules)에 위반되는 행위이며, 주디스 전체에서 차단되는 결과를 불러올 수 있습니다."
 
 #: r2/lib/template_helpers.py:209
 msgid "fetching title..."
@@ -3143,7 +3143,7 @@ msgstr "투고자"
 
 #: r2/lib/template_helpers.py:562
 msgid "reddit admin, speaking officially"
-msgstr "공석의 레딧 운영자"
+msgstr "공석의 주디스 운영자"
 
 #: r2/lib/template_helpers.py:637 r2/public/static/js/timetext.js:66
 msgid "just now"
@@ -3218,7 +3218,7 @@ msgstr "이 레딧은 승인된 사용자만 링크를 올릴수 있습니다."
 
 #: r2/lib/pages/pages.py:610
 msgid "submission in this subreddit is restricted to reddit gold members."
-msgstr "레딧 골드 멤버들만 이 서브레딧에 게시할 수 있습니다"
+msgstr "주디스 골드 멤버들만 이 서브레딧에 게시할 수 있습니다"
 
 #: r2/lib/pages/pages.py:612
 msgid "Submissions restricted"
@@ -3284,7 +3284,7 @@ msgstr "reddit store"
 
 #: r2/lib/pages/pages.py:990
 msgid "redditgifts"
-msgstr "레딧선물"
+msgstr "주디스 선물"
 
 #: r2/lib/pages/pages.py:991
 msgid "reddit.tv"
@@ -3292,7 +3292,7 @@ msgstr "reddit.tv"
 
 #: r2/lib/pages/pages.py:992
 msgid "radio reddit"
-msgstr "라디오 레딧"
+msgstr "라디오 주디스"
 
 #: r2/lib/pages/pages.py:994
 msgid "<3"
@@ -3381,7 +3381,7 @@ msgstr[0] "%(gildings)s gildings given out"
 #: r2/lib/pages/pages.py:2305
 #, python-format
 msgid "give reddit gold to %(user)s to show your appreciation"
-msgstr "%(user)s에게 레딧 골드 주기"
+msgstr "%(user)s에게 주디스 골드 주기"
 
 #: r2/lib/pages/pages.py:2309
 msgid "get extra features and help support reddit with a reddit gold subscription"
@@ -3389,7 +3389,7 @@ msgstr "get extra features and help support reddit with a reddit gold subscripti
 
 #: r2/lib/pages/pages.py:2313
 msgid "renew your reddit gold"
-msgstr "레딧 골드 갱신"
+msgstr "주디스 골드 갱신"
 
 #: r2/lib/pages/pages.py:2323
 #, python-format
@@ -3413,7 +3413,7 @@ msgstr "gifts on behalf of /u/%(user)s have helped pay for *%%(time)s* of reddit
 
 #: r2/lib/pages/pages.py:2398
 msgid "reddit is a platform for internet communities"
-msgstr "레딧은 인터넷 커뮤니티를 위한 플랫폼입니다."
+msgstr "주디스는 인터넷 커뮤니티를 위한 플랫폼입니다."
 
 #: r2/lib/pages/pages.py:2399
 msgid "where your votes shape what the world is talking about."
@@ -3927,19 +3927,19 @@ msgstr "[Click here for details on how to set up an automatically-renewing subsc
 
 #: r2/models/admintools.py:289
 msgid "Your reddit gold subscription has expired."
-msgstr "당신의 레딧 골드 구독기간이 만료되었습니다."
+msgstr "당신의 주디스 골드 구독기간이 만료되었습니다."
 
 #: r2/models/admintools.py:290
 msgid "Your subscription to reddit gold has expired."
-msgstr "당신의 레딧 골드 구독기간이 만료되었습니다."
+msgstr "당신의 주디스 골드 구독기간이 만료되었습니다."
 
 #: r2/models/admintools.py:302
 msgid "Your reddit gold subscription is about to expire!"
-msgstr "당신의 레딧 골드 구독기간이 곧 만료됩니다!"
+msgstr "당신의 주디스 골드 구독기간이 곧 만료됩니다!"
 
 #: r2/models/admintools.py:304
 msgid "Your subscription to reddit gold will be expiring soon."
-msgstr "당신 레딧 골드 구독기간이 곧 완료됩니다."
+msgstr "당신 주디스 골드 구독기간이 곧 완료됩니다."
 
 #: r2/models/builder.py:124 r2/templates/message.html:76
 #, python-format
@@ -3976,7 +3976,7 @@ msgstr "[삭제된 글] "
 #, python-format
 msgid "a redditor gifted you a month of reddit gold for this comment."
 msgid_plural "redditors have gifted you %(months)d months of reddit gold for this comment."
-msgstr[0] "다른 레디터가 이 댓글에 대한 답례로 %(months)d개월치의 레딧 골드를 선물하였습니다."
+msgstr[0] "다른 레디터가 이 댓글에 대한 답례로 %(months)d개월치의 주디스 골드를 선물하였습니다."
 
 #: r2/models/gold.py:552
 #, python-format
@@ -3988,7 +3988,7 @@ msgstr[0] "redditors have gifted you %(months)d months of reddit gold for this s
 #, python-format
 msgid "you have gifted reddit gold to %(recipient)s for this comment."
 msgid_plural "you and other redditors have gifted %(months)d months of reddit gold to %(recipient)s for this comment."
-msgstr[0] "당신과 다른 레디터가 이 댓글에 대한 답례로 %(months)d개월치의 레딧 골드를 %(recipient)s에게 선물했습니다."
+msgstr[0] "당신과 다른 레디터가 이 댓글에 대한 답례로 %(months)d개월치의 주디스 골드를 %(recipient)s에게 선물했습니다."
 
 #: r2/models/gold.py:569
 #, python-format
@@ -4000,7 +4000,7 @@ msgstr[0] "you and other redditors have gifted %(months)d months of reddit gold 
 #, python-format
 msgid "a redditor has gifted reddit gold to %(recipient)s for this comment."
 msgid_plural "redditors have gifted %(months)d months of reddit gold to %(recipient)s for this comment."
-msgstr[0] "레디터들께서 이 댓글에 대한 답례로 %(months)d개월치의 레딧 골드를 %(recipient)s에게 선물했습니다."
+msgstr[0] "레디터들께서 이 댓글에 대한 답례로 %(months)d개월치의 주디스 골드를 %(recipient)s에게 선물했습니다."
 
 #: r2/models/gold.py:586
 #, python-format
@@ -4201,7 +4201,7 @@ msgstr "/r/%(subreddit)s 의 관리자"
 #: r2/models/mail_queue.py:336
 #, python-format
 msgid "[reddit] %(user)s has shared a link with you"
-msgstr "[레딧]%(user)s님께서 보낸 링크입니다"
+msgstr "[주디스]%(user)s님께서 보낸 링크입니다"
 
 #: r2/models/mail_queue.py:337
 #, python-format
@@ -4215,63 +4215,63 @@ msgstr "[advertising] feedback from '%(user)s'"
 
 #: r2/models/mail_queue.py:339
 msgid "[reddit] email removal notice"
-msgstr "[레딧] 이메일 리스트에서 삭제 공고"
+msgstr "[주디스] 이메일 리스트에서 삭제 공고"
 
 #: r2/models/mail_queue.py:340
 msgid "[reddit] email addition notice"
-msgstr "[레딧] 이메일 리스트에 추가 공고"
+msgstr "[주디스] 이메일 리스트에 추가 공고"
 
 #: r2/models/mail_queue.py:341
 msgid "[reddit] reset your password"
-msgstr "[레딧] 비밀번호를 초기화하세요."
+msgstr "[주디스] 비밀번호를 초기화하세요."
 
 #: r2/models/mail_queue.py:342
 msgid "[reddit] verify your email address"
-msgstr "[reddit] 이메일 주소 인증"
+msgstr "[주디스] 이메일 주소 인증"
 
 #: r2/models/mail_queue.py:343
 msgid "[reddit] your bid has been accepted"
-msgstr "[레딧] 당신의 값은 승인되었습니다"
+msgstr "[주디스] 당신의 값은 승인되었습니다"
 
 #: r2/models/mail_queue.py:344
 msgid "[reddit] your promotion has been accepted"
-msgstr "[레딧] 고객님의 광고가 승인되었습니다"
+msgstr "[주디스] 고객님의 광고가 승인되었습니다"
 
 #: r2/models/mail_queue.py:345
 msgid "[reddit] your promotion has been rejected"
-msgstr "[레딧] 고객님의 광고가 거절되었습니다"
+msgstr "[주디스] 고객님의 광고가 거절되었습니다"
 
 #: r2/models/mail_queue.py:346
 msgid "[reddit] your promotion has been charged"
-msgstr "[레딧] 고객님의 광고가 지불되었습니다"
+msgstr "[주디스] 고객님의 광고가 지불되었습니다"
 
 #: r2/models/mail_queue.py:347
 msgid "[reddit] your promotion is now live"
-msgstr "[레딧] 당신의 프로모션은 현재 나오고 있습니다"
+msgstr "[주디스] 당신의 프로모션은 현재 나오고 있습니다"
 
 #: r2/models/mail_queue.py:348
 msgid "[reddit] your promotion has finished"
-msgstr "[레딧] 고객님의 광고가 종료되었습니다"
+msgstr "[주디스] 고객님의 광고가 종료되었습니다"
 
 #: r2/models/mail_queue.py:349
 msgid "[reddit] your promotion has been created"
-msgstr "[레딧] 고객님의 광고가 생성되었습니다"
+msgstr "[주디스] 고객님의 광고가 생성되었습니다"
 
 #: r2/models/mail_queue.py:350
 msgid "[reddit] hey, nerd!"
-msgstr "[레딧] 야 "
+msgstr "[주디스] 야 "
 
 #: r2/models/mail_queue.py:351
 msgid "[reddit] reddit gold activation link"
-msgstr "[레딧] 레딧 골드 활성화 링크"
+msgstr "[주디스] 주디스 골드 활성화 링크"
 
 #: r2/models/mail_queue.py:352
 msgid "[reddit] your password has been changed"
-msgstr "[레딧] 비밀번호가 변경되었습니다."
+msgstr "[주디스] 비밀번호가 변경되었습니다."
 
 #: r2/models/mail_queue.py:353
 msgid "[reddit] your email address has been changed"
-msgstr "[레딧] 이메일 주소가 변경되었습니다."
+msgstr "[주디스] 이메일 주소가 변경되었습니다."
 
 #: r2/models/mail_queue.py:354
 msgid "[reddit] your campaign didn't get enough impressions"
@@ -4283,7 +4283,7 @@ msgstr "[reddit] your payment has been voided"
 
 #: r2/models/mail_queue.py:356
 msgid "[reddit] your reddit gold gift code"
-msgstr "[레딧] 레딧 골드 기프트 코드"
+msgstr "[주디스] 주디스 골드 기프트 코드"
 
 #: r2/models/mail_queue.py:357
 msgid "[selfserve] suspicious payment alert"
@@ -4331,7 +4331,7 @@ msgstr "댓글 승인"
 
 #: r2/models/modaction.py:70
 msgid "add moderator"
-msgstr "레딧 운영자 추가하기"
+msgstr "주디스 운영자 추가하기"
 
 #: r2/models/modaction.py:71
 msgid "remove moderator"
@@ -4871,7 +4871,7 @@ msgstr "내 정보"
 
 #: r2/models/token.py:145
 msgid "Access my reddit username and signup date."
-msgstr "나의 레딧 아이디와 가입 날짜 보기"
+msgstr "나의 주디스 아이디와 가입 날짜 보기"
 
 #: r2/models/token.py:149
 msgid "Approve submitters and ban users"
@@ -5533,7 +5533,7 @@ msgstr "%(site)s 부크마크렛 설치하기"
 
 #: r2/templates/bookmarklets.html:34
 msgid "once added to your bookmark bar, you can click these buttons from any site to get quick access to reddit functionality."
-msgstr "즐겨찾기에 추가를 하시면, 아무 사이트에서도 이 버튼을 클릭해서 레딧에 접속 하실수 있습니다."
+msgstr "즐겨찾기에 추가를 하시면, 아무 사이트에서도 이 버튼을 클릭해서 주디스에 접속 하실수 있습니다."
 
 #: r2/templates/bookmarklets.html:35
 msgid "in Firefox"
@@ -5575,7 +5575,7 @@ msgstr "단추를 본인의 페이지에 추가하십시요 %(site)s"
 
 #: r2/templates/buttondemopanel.html:33
 msgid "the reddit button is the smart way to get your content submitted to      and discussed on reddit.  pick the button you like from below, and then      copy/paste the code into your HTML editor."
-msgstr "회원님의 웹페이지를 방문하시는 분들께서 레딧에 링크를 쉽게 올리고 토론할 수 있도록 하시려면, 하단에 나온 단추 중에서 마음에 드는 것을 고르신 다음, 옆에 있는 코드를 복사하여 HTML 편집기에 붙여 넣어주십시오"
+msgstr "회원님의 웹페이지를 방문하시는 분들께서 주디스에 링크를 쉽게 올리고 토론할 수 있도록 하시려면, 하단에 나온 단추 중에서 마음에 드는 것을 고르신 다음, 옆에 있는 코드를 복사하여 HTML 편집기에 붙여 넣어주십시오"
 
 #: r2/templates/buttondemopanel.html:37
 msgid "commonly used buttons"
@@ -5583,7 +5583,7 @@ msgstr "사람들이 많이 쓰는 단추"
 
 #: r2/templates/buttondemopanel.html:38
 msgid "use one of these buttons to quickly add reddit links to your site, or       see below for more options."
-msgstr "이 단추를 사용하시면 레딧 링크를 본인의 페이지에서도 쉽게 보실 수 있게 됩니다. 아래에 보시면 더 다양한 기능에 대해서 찾아 보실 수 있으십니다"
+msgstr "이 단추를 사용하시면 주디스 링크를 본인의 페이지에서도 쉽게 보실 수 있게 됩니다. 아래에 보시면 더 다양한 기능에 대해서 찾아 보실 수 있으십니다"
 
 #: r2/templates/buttondemopanel.html:49
 msgid "buttons with points"
@@ -5821,11 +5821,11 @@ msgstr "아무나 볼 수는 있지만 링크는 더 이상 올릴 수 없습니
 
 #: r2/templates/createsubreddit.html:142
 msgid "gold restricted"
-msgstr "레딧 골드 제한됨"
+msgstr "주디스 골드 제한됨"
 
 #: r2/templates/createsubreddit.html:143
 msgid "anyone can view, but only reddit gold members can submit or comment"
-msgstr "누구나 볼 수 있지만 레딧 골드 멤버들만 등록하거나 댓글을 달 수 있습니다."
+msgstr "누구나 볼 수 있지만 주디스 골드 멤버들만 등록하거나 댓글을 달 수 있습니다."
 
 #: r2/templates/createsubreddit.html:149
 msgid "employees only"
@@ -6002,7 +6002,7 @@ msgstr "도움말 숨기기"
 
 #: r2/templates/createsubreddit.html:435
 msgid "Own a domain?  Enter it here and then go to your DNS provider and add a CNAME record aliasing your domain to rhs.reddit.com. You will be able to access your reddit through your domain."
-msgstr "혹시 도메인을 가지고 계세요?  여기에 주소를 입력하시고 호스트의 DNS 설정에서 CNAME 기록을 rhs.reddit.com으로 설정해 주세요. 고객님의 도메인에서 바로 레딧을 접속하실 수 있습니다."
+msgstr "혹시 도메인을 가지고 계세요?  여기에 주소를 입력하시고 호스트의 DNS 설정에서 CNAME 기록을 rhs.reddit.com으로 설정해 주세요. 고객님의 도메인에서 바로 주디스를 접속하실 수 있습니다."
 
 #: r2/templates/createsubreddit.html:442
 msgid "look and feel"
@@ -6567,15 +6567,15 @@ msgstr "페이팔로 골드를 구독하고 있습니다. %(paypal)s 에서 구�
 
 #: r2/templates/goldvertisement.html:33
 msgid "daily reddit gold goal"
-msgstr "매일의 레딧 골드 목표"
+msgstr "매일의 주디스 골드 목표"
 
 #: r2/templates/goldvertisement.html:42
 msgid "help support reddit"
-msgstr "레딧을 도와 주세요"
+msgstr "주디스를 도와 주세요"
 
 #: r2/templates/goldvertisement.html:68
 msgid "Yesterday's reddit gold goal"
-msgstr "어제의 레딧 골드 목표"
+msgstr "어제의 주디스 골드 목표"
 
 #: r2/templates/interestbar.html:27
 #, python-format
@@ -7107,7 +7107,7 @@ msgstr "추천 다시 보기"
 
 #: r2/templates/newlink.html:37
 msgid "reddit"
-msgstr "레딧"
+msgstr "주디스"
 
 #: r2/templates/newlink.html:40
 #, python-format
@@ -7149,7 +7149,7 @@ msgstr "왜 벽돌이냐고요? 규칙 페이지 끝까지 읽고 알아내세�
 #: r2/templates/newlink.html:133
 #, python-format
 msgid "please be mindful of reddit's %(few_rules)s and practice %(good_reddiquette)s."
-msgstr "레딧의 %(few_rules)s 와 %(good_reddiquette)s 을 유의해 주세요."
+msgstr "주디스의 %(few_rules)s 와 %(good_reddiquette)s 을 유의해 주세요."
 
 #: r2/templates/newlink.html:135
 msgid "few rules"
@@ -7203,7 +7203,7 @@ msgstr "get the best of reddit, delivered once a week"
 #: r2/templates/oauth2authorization.html:46
 #, python-format
 msgid "%(app)s requests to connect with your reddit account."
-msgstr "%(app)s 에서 레딧 계정으로 연결을 요청합니다."
+msgstr "%(app)s 에서 주디스 계정으로 연결을 요청합니다."
 
 #: r2/templates/oauth2authorization.html:50
 #, python-format
@@ -7213,7 +7213,7 @@ msgstr "%(app)s 에게 다음을 허용하기:"
 #: r2/templates/oauth2authorization.html:54
 #, python-format
 msgid "%(app)s will not be able to access your reddit password."
-msgstr "%(app)s 은/는 당신의 레딧 비밀번호에 접근하지 못합니다."
+msgstr "%(app)s 은/는 당신의 주디스 비밀번호에 접근하지 못합니다."
 
 #: r2/templates/oauth2authorization.html:66
 msgid "Allow"
@@ -7226,7 +7226,7 @@ msgstr "거부"
 #: r2/templates/optout.html:27
 #, python-format
 msgid "The address '%(email)s' will no longer receive email from us."
-msgstr "' %(email)s '은 레딧에서 더 이상 레딧에서 오는 메일 받지 않게 될 겁니다"
+msgstr "' %(email)s '은 더 이상 주디스에서 오는 메일 받지 않게 될 겁니다"
 
 #: r2/templates/optout.html:30
 msgid "A confirmation email has been queued up and should be reaching you shortly.  It will be the last you hear from us."
@@ -7235,7 +7235,7 @@ msgstr "인증 메일이 큐에 등록되었으며 짧은 시간 안에 배달�
 #: r2/templates/optout.html:34
 #, python-format
 msgid "Would you like the address %(email)s to no longer receive email from us?"
-msgstr "' %(email)s '에서 더 이상 레딧에서 오는 메일을 받기 희망하지 않으십니까?"
+msgstr "' %(email)s '에서 더 이상 주디스에서 오는 메일을 받기 희망하지 않으십니까?"
 
 #: r2/templates/optout.html:46
 #, python-format
@@ -7245,7 +7245,7 @@ msgstr "'%(email)s' 을/를 정지 요청 목록에 제거하였습니다"
 #: r2/templates/optout.html:50
 #, python-format
 msgid "Allow '%(email)s' to receive email from us?"
-msgstr "'%(email)s'에서 레딧에서 오는 메일을 받으시겠습니까?"
+msgstr "'%(email)s'에서 주디스에서 오는 메일을 받으시겠습니까?"
 
 #: r2/templates/over18.html:27
 msgid "you must be at least eighteen to view this"
@@ -7503,7 +7503,7 @@ msgstr "앱 만들기"
 
 #: r2/templates/prefdelete.html:29
 msgid "delete your reddit account"
-msgstr "레딧 계정 삭제"
+msgstr "주디스 계정 삭제"
 
 #: r2/templates/prefdelete.html:32
 msgid "deleting..."
@@ -7627,7 +7627,7 @@ msgstr "your preferences couldn't be saved"
 
 #: r2/templates/prefoptions.html:115
 msgid "interface language"
-msgstr "레딧 표시 언어"
+msgstr "주디스 표시 언어"
 
 #: r2/templates/prefoptions.html:119
 msgid "incomplete"
@@ -7960,7 +7960,7 @@ msgstr "since you don't have %(gold_link)s, this will only apply in subreddits y
 
 #: r2/templates/prefoptions.html:406
 msgid "reddit themes"
-msgstr "레딧 테마"
+msgstr "주디스 테마"
 
 #: r2/templates/prefoptions.html:410
 msgid "reddit themes change the appearance of reddit.  They are used anywhere another custom theme is not present."
@@ -7972,7 +7972,7 @@ msgstr "참고: 보안상의 이유로 이 문서는 테마의 영향을 받지 
 
 #: r2/templates/prefoptions.html:418
 msgid "use reddit theme"
-msgstr "레딧 테마 사용"
+msgstr "주디스 테마 사용"
 
 #: r2/templates/prefoptions.html:419
 msgid "hover to preview"
@@ -8140,7 +8140,7 @@ msgstr "구별할까요?"
 
 #: r2/templates/printablebuttons.html:135
 msgid "give reddit gold in appreciation of this post."
-msgstr "이 포스트에 레딧 골드 주기."
+msgstr "이 포스트에 주디스 골드 주기."
 
 #: r2/templates/printablebuttons.html:137
 msgid "give gold"
@@ -8268,7 +8268,7 @@ msgstr "%(username)s's snoovatar"
 
 #: r2/templates/profilebar.html:122
 msgid "of reddit gold remaining"
-msgstr " 만큼의 레딧 골드가 남음"
+msgstr " 만큼의 주디스 골드가 남음"
 
 #: r2/templates/profilebar.html:124
 msgid "view gold features/benefits"
@@ -8469,7 +8469,7 @@ msgstr "send comments on my ad to my inbox"
 
 #: r2/templates/promotelinkbase.html:250
 msgid "Comments are a great way to get feedback from customers, and the reddit community is known for being vocal in comment threads."
-msgstr "댓글은 고객의 피드백을 얻기 위한 좋은 방법이며, 레딧은 댓글을 통해 의견을 나누는 수단으로 널리 알려져 있습니다."
+msgstr "댓글은 고객의 피드백을 얻기 위한 좋은 방법이며, 주디스는 댓글을 통해 의견을 나누는 수단으로 널리 알려져 있습니다."
 
 #: r2/templates/promotelinkbase.html:289
 msgid "autoplay"
@@ -9182,15 +9182,15 @@ msgstr "기프트 크레딧을 받기 위해서 확인코드를 입력해 주십
 
 #: r2/templates/thanks.html:41
 msgid "enter your confirmation code below to activate reddit gold"
-msgstr "레딧골드를 활성하기 위해서 확인코드를 입력해 주십시오"
+msgstr "주디스 골드를 활성하기 위해서 확인코드를 입력해 주십시오"
 
 #: r2/templates/thanks.html:44
 msgid "You claimed a reddit gold subscription in the last few minutes."
-msgstr "당신은 몇 분 전에 레딧골드를 가입하셨습니다."
+msgstr "당신은 몇 분 전에 주디스 골드를 가입하셨습니다."
 
 #: r2/templates/thanks.html:46
 msgid "You're already a reddit gold subscriber."
-msgstr "당신은 이미 레딧골드의 구독자입니다."
+msgstr "당신은 이미 주디스 골드의 구독자입니다."
 
 #: r2/templates/thanks.html:49
 msgid "But if you just gave us even more money, enter the new confirmation code below and we'll add the extra credit to your account."
@@ -9689,7 +9689,7 @@ msgstr "무언가 비밀"
 
 #: ../../reddit-plugin-meatspace/reddit_meatspace/pages.py:21
 msgid "reddit meetups"
-msgstr "레딧 오프라인 모임"
+msgstr "주디스 오프라인 모임"
 
 #: ../../reddit-plugin-meatspace/reddit_meatspace/templates/closedmeetupportal.html:5
 msgid "was on: {date}"
@@ -9754,7 +9754,7 @@ msgstr "Print out your badge. Fill in some details about yourself to spark conve
 
 #: ../../reddit-plugin-meatspace/reddit_meatspace/templates/meetupportal.html:63
 msgid "Meet redditors"
-msgstr "레딧 사용자 만나기"
+msgstr "주디스 사용자 만나기"
 
 #: ../../reddit-plugin-meatspace/reddit_meatspace/templates/meetupportal.html:65
 msgid "Show off your badge at the meetup. Marvel in the boxy glory of your QR code. Optionally: talk to the people you're showing your badge to."
@@ -10237,7 +10237,7 @@ msgstr "오늘 멤버가 되세요."
 #: ../../reddit-plugin-gold/reddit_gold/templates/goldinfopage.html:63
 #, python-format
 msgid "reddit gold is %(gold_month_price)s / month, or %(gold_year_price)s for a year."
-msgstr "레딧 골드는 1달에 %(gold_month_price)s 또는 1년에 %(gold_year_price)s 입니다."
+msgstr "주디스 골드는 1달에 %(gold_month_price)s 또는 1년에 %(gold_year_price)s 입니다."
 
 #: ../../reddit-plugin-gold/reddit_gold/templates/goldinfopage.html:72
 msgid "reddit gold is our premium membership program. It comes with extra features to make your experience here better as well as special benefits from gold partners for exceptional products and services.\n\n"
@@ -10249,7 +10249,7 @@ msgstr "reddit gold is our premium membership program. It comes with extra featu
 
 #: ../../reddit-plugin-gold/reddit_gold/templates/goldinfopage.html:80
 msgid "You can make reddit better."
-msgstr "당신은 레딧을 발전시킬 수 있습니다."
+msgstr "당신은 주디스를 발전시킬 수 있습니다."
 
 #: ../../reddit-plugin-gold/reddit_gold/templates/goldinfopage.html:90
 msgid "Awesome stuff for gold members:"
@@ -10281,7 +10281,7 @@ msgstr "당신의 유저 페이지에 있는 트로피."
 
 #: ../../reddit-plugin-gold/reddit_gold/templates/goldinfopage.html:112
 msgid "As thanks for supporting reddit gold."
-msgstr "레딧 골드를 지원해 주신 것에 대한 감사로 말이죠."
+msgstr "주디스 골드를 지원해 주신 것에 대한 감사로 말이죠."
 
 #: ../../reddit-plugin-gold/reddit_gold/templates/goldinfopage.html:113
 msgid "More to come."
@@ -10293,7 +10293,7 @@ msgstr "골드 특전에 대한 아이디어는 더 많이 있으니까, 이 목
 
 #: ../../reddit-plugin-gold/reddit_gold/templates/goldinfopage.html:129
 msgid "send us a postcard | for | 1 free month | of | reddit gold"
-msgstr "저희에게 | 엽서를 | 보내주시면 | 1개월치 분량의 | 레딧 골드를 | 드립니다."
+msgstr "저희에게 | 엽서를 | 보내주시면 | 1개월치 분량의 | 주디스 골드를 | 드립니다."
 
 #: ../../reddit-plugin-gold/reddit_gold/templates/goldinfopage.html:142
 msgid "view the postcard gallery"
@@ -10310,7 +10310,7 @@ msgstr "파트너 방문하기"
 
 #: ../../reddit-plugin-gold/reddit_gold/templates/goldpartnerspage.html:51
 msgid "reddit gold partners"
-msgstr "레딧 골드 파트너"
+msgstr "주디스 골드 파트너"
 
 #: ../../reddit-plugin-gold/reddit_gold/templates/snoovatar.html:13
 msgid "your snoovatar!"
