@@ -5756,7 +5756,7 @@ msgstr "\n"
 
 #: r2/templates/createsubreddit.html:53
 msgid "no spaces, e.g., slashdot"
-msgstr "공백 없음"
+msgstr "공백없이 영문자로만 이루어져 있어야 합니다"
 
 #: r2/templates/createsubreddit.html:53 r2/templates/goldpayment.html:167
 #: r2/templates/listingchooser.html:60 r2/templates/prefapps.html:139
@@ -5774,7 +5774,7 @@ msgstr "publicly describe your subreddit for all to see. this is also shown when
 
 #: r2/templates/createsubreddit.html:91
 msgid "shown in the sidebar of your subreddit. 5120 characters max."
-msgstr "서브레딧 사이드바에 표시됩니다. 최대 5120 문자 가능."
+msgstr "게시판 사이드바에 표시됩니다. 최대 5120 문자 가능."
 
 #: r2/templates/createsubreddit.html:100
 msgid "text to show on submission page. 1024 characters max."
@@ -5782,7 +5782,7 @@ msgstr "등록할 페이지에 보여질 문장을 적으세요. 영문 기준 �
 
 #: r2/templates/createsubreddit.html:100
 msgid "submission text"
-msgstr "제출물 길이"
+msgstr "글 작성 힌트"
 
 #: r2/templates/createsubreddit.html:123 r2/templates/multiinfobar.html:46
 msgid "public"
@@ -5795,16 +5795,16 @@ msgstr "누구나 읽기 및 등록 가능"
 #: r2/templates/createsubreddit.html:126
 #: r2/templates/searchresultsubreddit.html:100
 msgid "restricted"
-msgstr "제한됨"
+msgstr "제한"
 
 #: r2/templates/createsubreddit.html:127
 msgid "anyone can view, but only some are approved to submit links"
-msgstr "누구나 읽기 및 허용된 사람만 등록 가능"
+msgstr "누구나 읽을 수 있지만 허용된 사람만 등록 가능"
 
 #: r2/templates/createsubreddit.html:129 r2/templates/multiinfobar.html:45
 #: r2/templates/searchresultsubreddit.html:98 r2/templates/subreddit.html:85
 msgid "private"
-msgstr "비밀 레딧"
+msgstr "비밀"
 
 #: r2/templates/createsubreddit.html:130
 msgid "only approved members can view and submit"
