@@ -2181,7 +2181,7 @@ msgstr "비밀번호/이메일 정보"
 #: r2/templates/wikipagesettings.html:76
 #: ../../reddit-plugin-liveupdate/reddit_liveupdate/public/static/js/liveupdate/listings.js:129
 msgid "delete"
-msgstr "삭제"
+msgstr "삭제하기"
 
 #: r2/lib/menus.py:109
 msgid "security"
@@ -4706,7 +4706,7 @@ msgstr "플레어 템플릿 비우기"
 #: r2/templates/printablebuttons.html:44 r2/templates/printablebuttons.html:156
 #: r2/templates/trophycase.html:48 r2/templates/usertableitem.html:51
 msgid "remove"
-msgstr "제거하기"
+msgstr "게시판에서 제거하기"
 
 #: r2/models/modaction.py:182
 msgid "set permissions on moderator"
@@ -5377,7 +5377,7 @@ msgstr "권한 없음"
 #: r2/public/static/js/ui.js:1010 r2/templates/goldsubscription.html:47
 #: r2/templates/printablebuttons.html:525 r2/templates/printablebuttons.html:543
 msgid "are you sure?"
-msgstr "정말 신고하시겠습니까?"
+msgstr "정말 실행할까요?"
 
 #: r2/public/static/js/ui.js:1011 r2/templates/fraudform.html:32
 #: r2/templates/goldsubscription.html:50 r2/templates/optout.html:37
@@ -8098,12 +8098,12 @@ msgstr "downvote"
 
 #: r2/templates/printablebuttons.html:41 r2/templates/printablebuttons.html:172
 msgid "spammed"
-msgstr "스팸하셨습니다"
+msgstr "스팸처리됨"
 
 #: r2/templates/printablebuttons.html:50 r2/templates/printablebuttons.html:162
 #: ../../reddit-plugin-liveupdate/reddit_liveupdate/templates/liveupdatereportedeventrow.html:12
 msgid "approve"
-msgstr "승인하요"
+msgstr "승인하기"
 
 #: r2/templates/printablebuttons.html:60 r2/templates/promotelinkbase.html:700
 #: ../../reddit-plugin-liveupdate/reddit_liveupdate/templates/liveupdateeventapp.html:92
@@ -8209,7 +8209,7 @@ msgstr "윗글 보기"
 
 #: r2/templates/printablebuttons.html:411 r2/templates/printablebuttons.html:474
 msgid "reply {verb}"
-msgstr "댓글 달기"
+msgstr "댓글달기"
 
 #: r2/templates/printablebuttons.html:456
 msgid "unblock subreddit"
