@@ -6721,7 +6721,7 @@ msgstr "new! create sets of subreddits to view together."
 
 #: r2/templates/listingchooser.html:49
 msgid "for starters, try one of these:"
-msgstr "처음이시하면 이것들을 시도해 보세요:"
+msgstr "처음이시면 이것들을 시도해 보세요:"
 
 #: r2/templates/listingchooser.html:53
 msgid "to hide these samples, create a multi of your own:"
