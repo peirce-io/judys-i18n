@@ -120,7 +120,7 @@ msgstr "**주디스에 있는 모든 이야기에는 댓글을 달 수 있습니
 
 #: ../../reddit-plugin-about/reddit_about/templates/about.html:84
 msgid "**anyone can create a community** (called \"subreddits\"). each subreddit is independent and moderated by a team of volunteers."
-msgstr "**누구나 커뮤니티를 만들 수 있습니다** (\"서브레딧\"이라 불립니다). 각각의 서브레딧은 독립되어 있고 자원자들에 의해 관리됩니다."
+msgstr "**누구나 커뮤니티를 만들 수 있습니다** (\"게시판\"이라 불립니다). 각각의 게시판은 독립되어 있고 자원자들에 의해 관리됩니다."
 
 #: ../../reddit-plugin-about/reddit_about/templates/about.html:85
 msgid "**reddit is open source**. community members are constantly tinkering and contributing features, bug fixes, and translations back to the site."
@@ -492,7 +492,7 @@ msgstr "글"
 #: r2/controllers/listingcontroller.py:1291 r2/lib/menus.py:93
 #: r2/templates/pagenamenav.html:59 r2/templates/promotelinkbase.html:620
 msgid "subreddits"
-msgstr "하위 레딧"
+msgstr "게시판"
 
 #: r2/controllers/front.py:1238
 msgid "seen it"
@@ -502,7 +502,7 @@ msgstr "본 링크입니다 ???"
 #: r2/templates/multiinfobar.html:35
 #, python-format
 msgid "%s subreddits"
-msgstr "%s 개의 서브레딧이 있습니다."
+msgstr "%s 개의 게시판이 있습니다."
 
 #: r2/controllers/front.py:1270 r2/lib/menus.py:79 r2/templates/fraudform.html:42
 #: r2/templates/newlink.html:147 r2/templates/reportform.html:65
@@ -833,7 +833,7 @@ msgstr "많이 심심한가 보시내요?"
 
 #: r2/controllers/listingcontroller.py:724
 msgid "filter by subreddit"
-msgstr "서브레딧으로 검색 결과 제한"
+msgstr "게시판으로 검색 결과 제한"
 
 #: r2/controllers/listingcontroller.py:738
 msgid "filter by category"
@@ -921,7 +921,7 @@ msgstr "메세지"
 
 #: r2/controllers/listingcontroller.py:1392
 msgid "subreddits: "
-msgstr "서브레딧:"
+msgstr "게시판들:"
 
 #: r2/controllers/listingcontroller.py:1518
 msgid "To block a user click 'block user'  below a message from a user you wish to block from messaging you."
@@ -934,7 +934,7 @@ msgstr "골드"
 #: r2/controllers/listingcontroller.py:1776
 #, python-format
 msgid "gildings in this subreddit have paid for %(time)s of server time"
-msgstr "이 서브레딧의 gilding은 주디스 서버의 %(time)s 시간만큼을 지불했습니다."
+msgstr "이 게시판의 gilding은 주디스 서버의 %(time)s 시간만큼을 지불했습니다."
 
 #: r2/controllers/multi.py:350
 #, python-format
@@ -1067,7 +1067,7 @@ msgstr "검색 실패"
 
 #: r2/controllers/wiki.py:86
 msgid "This page is the subreddit stylesheet, changes here apply to the subreddit css"
-msgstr "이 페이지는 서브레딧 스타일시트입니다. 변경하시면 서브레딧 CSS에 반영됩니다."
+msgstr "이 페이지는 게시판 스타일시트입니다. 변경하시면 게시판 CSS에 반영됩니다."
 
 #: r2/controllers/wiki.py:87
 msgid "The contents of this page appear on the submit page"
@@ -1075,7 +1075,7 @@ msgstr "이 페이지의 내용은 게시하기 페이지에 나타납니다"
 
 #: r2/controllers/wiki.py:88
 msgid "The contents of this page appear on the subreddit sidebar"
-msgstr "이 페이지 내용은 서브레딧 사이드바에 반영됩니다"
+msgstr "이 페이지 내용은 게시판 사이드바에 반영됩니다"
 
 #: r2/controllers/wiki.py:89
 msgid "The contents of this page appear in the public subreddit description and when the user does not have access to the subreddit"
@@ -1112,7 +1112,7 @@ msgstr "이 위키는 그렇게 긴 페이지 이름은 처리할 수 없습니�
 
 #: r2/controllers/wiki.py:211
 msgid "this page is a special page, please go into the subreddit settings and save the field once to create this special page"
-msgstr "이 페이지는 스페셜 페이지입니다. 스페셜 페이지를 생성하시려면, 서브레딧 설정으로 가셔서 입력란을 한 번 저장하세요."
+msgstr "이 페이지는 스페셜 페이지입니다. 스페셜 페이지를 생성하시려면, 게시판 설정으로 가셔서 입력란을 한 번 저장하세요."
 
 #: r2/controllers/wiki.py:213
 #, python-format
@@ -1369,11 +1369,11 @@ msgstr "누가 이미 올린 링크입니다"
 
 #: r2/lib/errors.py:73
 msgid "that subreddit already exists"
-msgstr "이미 존재하는 서브레딧입니다"
+msgstr "이미 존재하는 게시판입니다"
 
 #: r2/lib/errors.py:74
 msgid "that subreddit doesn't exist"
-msgstr "존재하지 않는 서브레딧입니다"
+msgstr "존재하지 않는 게시판입니다"
 
 #: r2/lib/errors.py:75
 msgid "you aren't allowed to post there."
@@ -1381,15 +1381,15 @@ msgstr "등록할 권한이 없습니다"
 
 #: r2/lib/errors.py:76
 msgid "you aren't allowed access to this subreddit"
-msgstr "이 서브레딧에 접근하도록 허락되지 않았습니다"
+msgstr "이 게시판에 접근하도록 허락되지 않았습니다"
 
 #: r2/lib/errors.py:77
 msgid "you must specify a subreddit"
-msgstr "서브레딧을 입력하세요"
+msgstr "게시판을 입력하세요"
 
 #: r2/lib/errors.py:78
 msgid "this subreddit has chosen to disable their ads at this time"
-msgstr "이 서브레딧은 현재 광고를 중지하기로 결정했습니다"
+msgstr "이 게시판은 현재 광고를 중지하기로 결정했습니다"
 
 #: r2/lib/errors.py:79 r2/lib/validator/validator.py:2871
 msgid "that name isn't going to work"
@@ -1520,11 +1520,11 @@ msgstr "이미 사용된 코드입니다."
 
 #: r2/lib/errors.py:111
 msgid "that subreddit doesn't allow text posts"
-msgstr "이 서브레딧에는 텍스트 포스트를 올릴 수 없습니다"
+msgstr "이 게시판에는 텍스트 포스트를 올릴 수 없습니다"
 
 #: r2/lib/errors.py:112
 msgid "that subreddit only allows text posts"
-msgstr "이 서브레딧에는 텍스트 포스트만 올릴 수 있습니다"
+msgstr "이 게시판에는 텍스트 포스트만 올릴 수 있습니다"
 
 #: r2/lib/errors.py:113
 msgid "that's a piece of history now; it's too late to reply to it"
@@ -1617,7 +1617,7 @@ msgstr "이 사용자는 이미 관리자입니다"
 
 #: r2/lib/errors.py:136
 msgid "there is no pending invite for that subreddit"
-msgstr "해당 서브레딧에 대기 중인 초청장이 없습니다"
+msgstr "해당 게시판에 대기 중인 초청장이 없습니다"
 
 #: r2/lib/errors.py:137
 msgid "you cannot edit the budget of a live ad"
@@ -1662,7 +1662,7 @@ msgstr "바꿀 수 없는 Multireddit입니다."
 
 #: r2/lib/errors.py:147
 msgid "no more space for subreddits in that multireddit"
-msgstr "Multireddit에 Subreddit을 추가할 공간이 더 이상 없습니다."
+msgstr "Multireddit에 게시판을 추가할 공간이 더 이상 없습니다."
 
 #: r2/lib/errors.py:148
 #, python-format
@@ -1701,7 +1701,7 @@ msgstr "invalid values for frequency cap"
 
 #: r2/lib/errors.py:156
 msgid "that user is banned from the subreddit"
-msgstr "그 사용자는 서브레딧에서 차단되었습니다"
+msgstr "그 사용자는 게시판에서 차단되었습니다"
 
 #: r2/lib/errors.py:157
 msgid "you must have an active reddit gold subscription to do that"
@@ -2236,7 +2236,7 @@ msgstr "구독 수정"
 
 #: r2/lib/menus.py:128 r2/lib/pages/pages.py:2017
 msgid "subreddit settings"
-msgstr "하위 레딧 설정"
+msgstr "게시판 설정"
 
 #: r2/lib/menus.py:129
 msgid "edit stylesheet"
@@ -2315,7 +2315,7 @@ msgstr "만들기"
 
 #: r2/lib/menus.py:151 r2/lib/pages/pages.py:2508
 msgid "my subreddits"
-msgstr "나의 하위 레딧들"
+msgstr "나의 게시판들"
 
 #: r2/lib/menus.py:153
 msgid "help translate"
@@ -2451,7 +2451,7 @@ msgstr "프론트"
 #. subscriptions
 #: r2/lib/menus.py:430
 msgid "myrandom"
-msgstr "구독한 하위 레딧에서 랜덤 포스트"
+msgstr "구독한 게시판에서 랜덤 포스트"
 
 #: r2/lib/menus.py:606
 msgid "(suggested)"
@@ -2588,7 +2588,7 @@ msgstr "친구 분들께서 올린 링크만 보시려면 [reddit.com/r/friends]
 
 #: r2/lib/strings.py:85
 msgid "your subreddit has been created"
-msgstr "서브레딧이 생성되었습니다."
+msgstr "게시판이 생성되었습니다."
 
 #: r2/lib/strings.py:87
 #, python-format
@@ -2597,7 +2597,7 @@ msgstr "더욱 많은 정보를 얻으시려면 [%(link)s](%(link)s) 을 방문�
 
 #: r2/lib/strings.py:90
 msgid "you have not subscribed to any subreddits."
-msgstr "구독 중인 서브레딧이 없습니다."
+msgstr "구독 중인 게시판이 없습니다."
 
 #: r2/lib/strings.py:91
 msgid "below are the subreddits you have subscribed to."
@@ -2605,11 +2605,11 @@ msgstr "below are the subreddits you have subscribed to."
 
 #: r2/lib/strings.py:92
 msgid "below are the subreddits that you are an approved submitter on."
-msgstr "아래는 당신이 승인된 게시자인 서브레딧입니다"
+msgstr "아래는 당신이 승인된 게시자인 게시판들입니다"
 
 #: r2/lib/strings.py:93
 msgid "below are the subreddits that you have moderator access to."
-msgstr "아래는 당신이 관리자 권한을 가진 서브레딧입니다"
+msgstr "아래는 당신이 관리자 권한을 가진 게시판들입니다"
 
 #: r2/lib/strings.py:96
 msgid "click the `subscribe` or `unsubscribe` buttons to choose which subreddits appear on your front page."
@@ -2637,12 +2637,12 @@ msgstr "%(score)s points and %(num_comments)s comments so far on reddit"
 
 #: r2/lib/strings.py:106
 msgid "this subreddit has been banned"
-msgstr "이 서브레딧은 금지되었습니다"
+msgstr "이 게시판은 금지되었습니다"
 
 #: r2/lib/strings.py:107
 #, python-format
 msgid "most likely this was done automatically by our spam filtering program. the program is still learning, and may even have some bugs, so if you feel the ban was a mistake, please submit a link to our [request a subreddit listing](%(link)s) and be sure to include the **exact name of the subreddit**."
-msgstr "스팸 필터링 프로그램에 의해 자동으로 차단됐을 가능성이 높습니다. 아직 프로그램이 배우는 중이고 버그도 있을 수 있으므로, 혹시 실수로 차단된 것 같으시다면 [서브레딧 표시 신청하기](%(link)s)로 링크를 보내주시고, **정확한 서브레딧 명칭** 을 꼭 알려주시기 바랍니다."
+msgstr "스팸 필터링 프로그램에 의해 자동으로 차단됐을 가능성이 높습니다. 아직 프로그램이 배우는 중이고 버그도 있을 수 있으므로, 혹시 실수로 차단된 것 같으시다면 [게시판 표시 신청하기](%(link)s)로 링크를 보내주시고, **정확한 게시판 명칭** 을 꼭 알려주시기 바랍니다."
 
 #: r2/lib/strings.py:108
 msgid "this subreddit is for gold members"
@@ -2654,11 +2654,11 @@ msgstr "you must have [reddit gold](/gold/about) to view this super secret subre
 
 #: r2/lib/strings.py:110
 msgid "this subreddit is private"
-msgstr "비공개된 서브레딧입니다"
+msgstr "비공개된 게시판입니다"
 
 #: r2/lib/strings.py:111
 msgid "the moderators of this subreddit have set it to private. you must be a moderator or approved submitter to view its contents."
-msgstr "관리자에 의해 비공개된 서브레딧입니다. 관리자와 승인된 게시자만 열람 가능합니다."
+msgstr "관리자에 의해 비공개된 게시판입니다. 관리자와 승인된 게시자만 열람 가능합니다."
 
 #: r2/lib/strings.py:112
 #, python-format
@@ -2929,7 +2929,7 @@ msgstr "당신의 구독사항의 멀티레딧"
 
 #: r2/lib/strings.py:183
 msgid "multireddit of subreddits you moderate"
-msgstr "당신의 관리하는 서브레딧들의 멀티레딧"
+msgstr "당신의 관리하는 게시판들의 멀티레딧"
 
 #: r2/lib/strings.py:185
 msgid "/r/all displays content from all of reddit, including subreddits you aren't subscribed to. Some subreddits have chosen to exclude themselves from /r/all."
@@ -2959,7 +2959,8 @@ msgstr[0] "링크"
 #: r2/templates/subreddittrafficreport.html:42
 msgid "subreddit"
 msgid_plural "subreddits"
-msgstr[0] "하위 레딧"
+msgstr[0] "게시판"
+msgstr[1] "게시판들"
 
 #: r2/lib/strings.py:272
 msgid "creddit"
@@ -3114,7 +3115,7 @@ msgstr "관리자로부터의 참고 사항:"
 
 #: r2/lib/system_messages.py:127
 msgid "you can contact the moderators regarding your ban by replying to this message. **warning**: using other accounts to circumvent a subreddit ban is considered a violation of reddit's [site rules](/rules) and can result in being banned from reddit entirely."
-msgstr "이 메시지에 답함으로써 관리자에게 차단에 대해 문의할 수 있습니다. **경고**: 서브레딧 차단을 회피하기 위해 다른 계정을 사용하는 행위는 주디스의 [사이트 규정](/rules)에 위반되는 행위이며, 주디스 전체에서 차단되는 결과를 불러올 수 있습니다."
+msgstr "이 메시지에 답함으로써 관리자에게 차단에 대해 문의할 수 있습니다. **경고**: 게시판 차단을 회피하기 위해 다른 계정을 사용하는 행위는 주디스의 [사이트 규정](/rules)에 위반되는 행위이며, 주디스 전체에서 차단되는 결과를 불러올 수 있습니다."
 
 #: r2/lib/template_helpers.py:209
 msgid "fetching title..."
@@ -3164,7 +3165,7 @@ msgstr "이 IP 주소에 대한 노트가 없습니다"
 
 #: r2/lib/pages/admin_pages.py:89
 msgid "No notes for this subreddit"
-msgstr "이 서브레딧에 대한 노트가 없음"
+msgstr "이 게시판에 대한 노트가 없음"
 
 #: r2/lib/pages/admin_pages.py:90
 msgid "No notes for this user"
@@ -3202,11 +3203,11 @@ msgstr "운영자 도구"
 
 #: r2/lib/pages/pages.py:584
 msgid "these subreddits"
-msgstr "이 서브레딧들"
+msgstr "이 게시판들"
 
 #: r2/lib/pages/pages.py:598
 msgid "this subreddit is archived and no longer accepting submissions."
-msgstr "이 레딧은 기록만 남아있기 때문에 더 이상 링크를 올리실 수 없습니다."
+msgstr "이 게시판은 기록만 남아있기 때문에 더 이상 링크를 올리실 수 없습니다."
 
 #: r2/lib/pages/pages.py:600
 msgid "Submissions disabled"
@@ -3214,11 +3215,11 @@ msgstr "등록이 비활성화됨"
 
 #: r2/lib/pages/pages.py:607
 msgid "submission in this subreddit is restricted to approved submitters."
-msgstr "이 레딧은 승인된 사용자만 링크를 올릴수 있습니다."
+msgstr "이 게시판은 승인된 사용자만 링크를 올릴수 있습니다."
 
 #: r2/lib/pages/pages.py:610
 msgid "submission in this subreddit is restricted to reddit gold members."
-msgstr "주디스 골드 멤버들만 이 서브레딧에 게시할 수 있습니다"
+msgstr "주디스 골드 멤버들만 이 게시판에 게시할 수 있습니다"
 
 #: r2/lib/pages/pages.py:612
 msgid "Submissions restricted"
@@ -3334,7 +3335,7 @@ msgstr "%(site)s에 대하여"
 
 #: r2/lib/pages/pages.py:2043
 msgid "search subreddits by name"
-msgstr "이름으로 하위 레딧 찾기"
+msgstr "이름으로 게시판 찾기"
 
 #: r2/lib/pages/pages.py:2083
 #, python-format
@@ -3421,7 +3422,7 @@ msgstr "여러분들이 투표를 통해 세상의 화두를 이끌어갈 수 �
 
 #: r2/lib/pages/pages.py:2581 r2/lib/pages/pages.py:2687
 msgid "add subreddit"
-msgstr "서브레딧 추가"
+msgstr "게시판 추가"
 
 #: r2/lib/pages/pages.py:2619
 #, python-format
@@ -3571,11 +3572,11 @@ msgstr "대문에 대한 인상"
 
 #: r2/lib/pages/pages.py:4669
 msgid "subreddit clicks"
-msgstr "서브레딧 클릭수"
+msgstr "게시판 클릭수"
 
 #: r2/lib/pages/pages.py:4669
 msgid "subreddit impressions"
-msgstr "서브레딧에 대한 인상"
+msgstr "게시판에 대한 인상"
 
 #: r2/lib/pages/pages.py:4670 r2/lib/pages/trafficpages.py:409
 msgid "total clicks"
@@ -3756,7 +3757,7 @@ msgstr "빈 페이지입니다. 편집해서 내용을 추가해 주세요."
 #: r2/lib/pages/wiki.py:168 r2/lib/pages/wiki.py:174
 #, python-format
 msgid "page %s does not exist in this subreddit"
-msgstr "%s 페이지는 이 서브레딧에 존재하지 않습니다."
+msgstr "%s 페이지는 이 게시판에 존재하지 않습니다."
 
 #: r2/lib/pages/wiki.py:182
 msgid "editing"
@@ -3782,7 +3783,7 @@ msgstr "/r/%s 의 페이지"
 
 #: r2/lib/pages/wiki.py:209
 msgid "Below is a list of pages in this wiki visible to you in this subreddit."
-msgstr "이 서브레딧에서 열람하실 수 있는 위키 페이지 목록입니다."
+msgstr "이 게시판에서 열람하실 수 있는 위키 페이지 목록입니다."
 
 #: r2/lib/pages/wiki.py:215
 #: ../../reddit-plugin-liveupdate/reddit_liveupdate/templates/liveupdateeventapp.html:53
@@ -4895,15 +4896,15 @@ msgstr "포스트 관리하기"
 
 #: r2/models/token.py:164
 msgid "Approve, remove, mark nsfw, and distinguish content in subreddits I moderate."
-msgstr "내가 관리하는 서브레딧의 내용을 승인, 삭제, 구별하거나 19금 마크를 다십시오."
+msgstr "내가 관리하는 게시판의 내용을 승인, 삭제, 구별하거나 19금 마크를 다십시오."
 
 #: r2/models/token.py:170
 msgid "Moderate Subreddit Configuration"
-msgstr "서브레딧 설정 관리하기"
+msgstr "게시판 설정 관리하기"
 
 #: r2/models/token.py:171
 msgid "Manage the configuration, sidebar, and CSS of subreddits I moderate."
-msgstr "서브레딧의 설정, 사이드바, CSS 관리하기 | 관리."
+msgstr "게시판의 설정, 사이드바, CSS 관리하기 | 관리."
 
 #: r2/models/token.py:177
 msgid "Moderation Log"
@@ -4911,7 +4912,7 @@ msgstr "관리 로그"
 
 #: r2/models/token.py:178
 msgid "Access the moderation log in subreddits I moderate."
-msgstr "서브레딧의 관리 로그 접속하기 | 관리."
+msgstr "게시판의 관리 로그 접속하기 | 관리."
 
 #: r2/models/token.py:183
 msgid "Invite or remove other moderators"
@@ -4919,11 +4920,11 @@ msgstr "다른 관리자 초청 또는 취소하기"
 
 #: r2/models/token.py:184
 msgid "Invite or remove other moderators from subreddits I moderate."
-msgstr "내가 관리하는 서브레딧에서 다른 관리자 초대 또는 취소하기"
+msgstr "내가 관리하는 게시판에서 다른 관리자 초대 또는 취소하기"
 
 #: r2/models/token.py:190
 msgid "Make changes to your subreddit moderator and contributor status"
-msgstr "당신이 관리하는 서브레딧의 관리자와 승인된 기여자 상태를 변경하기"
+msgstr "당신이 관리하는 게시판의 관리자와 승인된 기여자 상태를 변경하기"
 
 #: r2/models/token.py:192
 msgid "Accept invitations to moderate a subreddit. Remove myself as a moderator or contributor of subreddits I moderate or contribute to."
@@ -4931,11 +4932,11 @@ msgstr "Accept invitations to moderate a subreddit. Remove myself as a moderator
 
 #: r2/models/token.py:200
 msgid "Subreddit Traffic"
-msgstr "서브래딧 트래픽"
+msgstr "게시판 트래픽"
 
 #: r2/models/token.py:201
 msgid "Access traffic stats in subreddits I moderate."
-msgstr "서브레딧에서 트래픽 통계 접속하기 | 관리."
+msgstr "게시판에서 트래픽 통계 접속하기 | 관리."
 
 #: r2/models/token.py:205
 msgid "Moderate Wiki"
@@ -4951,7 +4952,7 @@ msgstr "내 게시판들"
 
 #: r2/models/token.py:213
 msgid "Access the list of subreddits I moderate, contribute to, and subscribe to."
-msgstr "서브레딧 목록 접속하기 | 관리하기, 기여하기, 구독하기."
+msgstr "게시판 목록 접속하기 | 관리하기, 기여하기, 구독하기."
 
 #: r2/models/token.py:219
 msgid "Private Messages"
@@ -5144,7 +5145,7 @@ msgstr "awesomeness goes here"
 
 #: r2/public/static/js/multi.js:518
 msgid "add a subreddit to your multi."
-msgstr "멀티에 서브레딧 추가하기"
+msgstr "멀티에 게시판 추가하기"
 
 #: r2/public/static/js/multi.js:571
 msgid "categorize"
@@ -5351,7 +5352,7 @@ msgstr[0] "%(num)s minutes ago"
 
 #: r2/public/static/js/traffic.js:11
 msgid "view subreddit traffic"
-msgstr "서브레딧 트래픽 보기"
+msgstr "게시판 트래픽 보기"
 
 #: r2/public/static/js/traffic.js:13 r2/templates/flairlist.html:31
 #: r2/templates/userlisting.html:135
@@ -5495,7 +5496,7 @@ msgstr "광고"
 
 #: r2/templates/allinfobar.html:37
 msgid "Exclude your subscribed subreddits"
-msgstr "구독된 서브레딧 제외하기"
+msgstr "구독된 게시판 제외하기"
 
 #: r2/templates/allinfobar.html:42
 msgid "Exclude custom subreddits"
@@ -5905,11 +5906,11 @@ msgstr "아무나"
 
 #: r2/templates/createsubreddit.html:221
 msgid "Anyone who can submit to the subreddit may edit"
-msgstr "이 섭레딧에 작성 할 수 있는 아무나에게 수정 가능"
+msgstr "이 게시판에 작성 할 수 있는 아무나 수정 가능"
 
 #: r2/templates/createsubreddit.html:228
 msgid "Subreddit karma required to edit and create wiki pages:"
-msgstr "위키 페이지를 수정하거나 생성하는데 필요한 서브레딧 카르마:"
+msgstr "위키 페이지를 수정하거나 생성하는데 필요한 게시판 카르마:"
 
 #: r2/templates/createsubreddit.html:238
 msgid "Account age (days) required to edit and create wiki pages:"
@@ -6580,12 +6581,12 @@ msgstr "어제의 주디스 골드 목표"
 #: r2/templates/interestbar.html:27
 #, python-format
 msgid "ready for something new? %s subscribe %s to some new subreddits."
-msgstr "새로운 것을 위한 준비가 되셨나요? 새로운 서브레딧을 %s 구독하세요 %s."
+msgstr "새로운 것을 위한 준비가 되셨나요? 새로운 게시판을 %s 구독하세요 %s."
 
 #: r2/templates/interestbar.html:29
 #, python-format
 msgid "it looks like you haven't %s subscribed %s to any subreddits yet. want some ideas?"
-msgstr "아직 %s 구독 신청 %s 하신 서브레딧이 없으신가 보네요. 추천해 드릴까요?"
+msgstr "아직 %s 구독 신청 %s 하신 게시판이 없으신가 보네요. 추천해 드릴까요?"
 
 #: r2/templates/interestbar.html:35
 msgid "what are you interested in?"
@@ -6729,7 +6730,7 @@ msgstr "to hide these samples, create a multi of your own:"
 
 #: r2/templates/listingsuggestions.html:30
 msgid "explore some new subreddits"
-msgstr "몇 개의 새로운 서브레딧을 구경하세요"
+msgstr "새로운 게시판들을 구경하세요"
 
 #: r2/templates/listingsuggestions.html:32
 msgid "or try a multi:"
@@ -6742,7 +6743,7 @@ msgstr "or try a %(random_subreddit)s"
 
 #: r2/templates/listingsuggestions.html:39
 msgid "random subreddit"
-msgstr "랜덤 서브레딧"
+msgstr "랜덤 게시판"
 
 #: r2/templates/locationbar.html:29
 #, python-format
@@ -7095,11 +7096,11 @@ msgstr "이건 어때요?"
 
 #: r2/templates/multiinfobar.html:170
 msgid "check out subreddits by category"
-msgstr "카테고리별로 서브레딧 둘러보기"
+msgstr "카테고리별로 게시판 둘러보기"
 
 #: r2/templates/multiinfobar.html:175
 msgid "explore a random subreddit"
-msgstr "랜덤 subreddit 찾아보기"
+msgstr "랜덤으로 게시판 찾아보기"
 
 #: r2/templates/multiinfobar.html:180
 msgid "see the suggestions again"
@@ -7131,7 +7132,7 @@ msgstr "내용"
 
 #: r2/templates/newlink.html:103
 msgid "choose a subreddit"
-msgstr "하위 레딧을 고르세요."
+msgstr "게시판을 고르세요."
 
 #: r2/templates/newlink.html:110
 #, python-format
@@ -7455,7 +7456,7 @@ msgstr "오직 여기서만:"
 
 #: r2/templates/prefapps.html:232
 msgid "Only in the subreddits:"
-msgstr "이 서브레딧에만 존재:"
+msgstr "이 게시판에만 존재:"
 
 #: r2/templates/prefapps.html:250 r2/templates/prefapps.html:261
 msgid "Expires in:"
@@ -7667,7 +7668,7 @@ msgstr "모든 링크 옆에 미리보기를 표시하지 않는다"
 
 #: r2/templates/prefoptions.html:148
 msgid "show thumbnails based on that subreddit's media preferences"
-msgstr "서브레딧 미디어 설정을 기반으로 섬네일 보이기"
+msgstr "게시판 미디어 설정을 기반으로 섬네일 보이기"
 
 #: r2/templates/prefoptions.html:149
 msgid "make safe(r) for work "
@@ -7758,7 +7759,7 @@ msgstr "ignore suggested sorts"
 
 #: r2/templates/prefoptions.html:217
 msgid "(suggested sorts may be set by community moderators for specific threads or subreddits, like Q&As)"
-msgstr "(추천된 정렬 방식은 공동체 관리자가 Q&A와 같은 특정 스레드나 서브레딧에 설정할 수 있습니다.)"
+msgstr "(추천된 정렬 방식은 공동체 관리자가 Q&A와 같은 특정 스레드나 게시판에 설정할 수 있습니다.)"
 
 #: r2/templates/prefoptions.html:221
 msgid "show a dagger (†) on comments voted controversial"
@@ -7836,7 +7837,7 @@ msgstr "스타일 설정"
 
 #: r2/templates/prefoptions.html:284
 msgid "allow subreddits to show me custom themes"
-msgstr "서브레딧 자체 스킨을 보이도록 허용"
+msgstr "게시판 자체 스킨을 보이도록 허용"
 
 #: r2/templates/prefoptions.html:287
 msgid "(you can also choose which subreddit themes to disable on an individual level)"
@@ -8874,7 +8875,7 @@ msgstr "검색어가 %(syntax)s 문법으로 전환됨: %(converted)s"
 
 #: r2/templates/searchform.html:35
 msgid "find submissions in \"subreddit\""
-msgstr "\"서브레딧\"으로 글 찾기"
+msgstr "\"게시판\"으로 글 찾기"
 
 #: r2/templates/searchform.html:37
 msgid "find submissions by \"username\""
@@ -8906,7 +8907,7 @@ msgstr "상세한 설명을 위해 FAQ를 보세요."
 
 #: r2/templates/searchform.html:54
 msgid "advanced search: by author, subreddit..."
-msgstr "고급 검색: 게시자, 서브레딧으로..."
+msgstr "고급 검색: 게시자, 게시판으로..."
 
 #: r2/templates/searchform.html:67
 msgid "Search"
@@ -8983,7 +8984,7 @@ msgstr "메시지"
 
 #: r2/templates/sitewidetraffic.html:33
 msgid "top subreddits"
-msgstr "최고의 서브레딧"
+msgstr "최고의 게시판"
 
 #: r2/templates/sitewidetraffic.html:33 r2/templates/subreddittrafficreport.html:33
 msgid "make report"
@@ -9031,7 +9032,7 @@ msgstr "%(here)s를 누르시면 이 기능을 끄실 수 있습니다"
 
 #: r2/templates/spotlightlisting.html:96
 msgid "Enter a keyword or topic to discover new subreddits around your interests. Be specific!"
-msgstr "관심 분야에 관한 새로운 서브레딧을 발견하시려면 키워드나 주제를 입력하세요. 구체적으로 쓰셔야 합니다."
+msgstr "관심 분야에 관한 새로운 게시판을 발견하시려면 키워드나 주제를 입력하세요. 구체적으로 쓰셔야 합니다."
 
 #: r2/templates/spotlightlisting.html:99
 #, python-format
@@ -9048,11 +9049,11 @@ msgstr "19세 미만 금지"
 
 #: r2/templates/subredditfacets.html:29
 msgid "too many results? narrow it down to a subreddit!"
-msgstr "결과가 너무 많은가요? 서브레딧으로 제한시켜 보세요!"
+msgstr "결과가 너무 많은가요? 게시판으로 제한시켜 보세요!"
 
 #: r2/templates/subredditinfobar.html:41
 msgid "logged-in users viewing this subreddit in the past 15 minutes"
-msgstr "지난 15분에 이 서브레딧을 방문한 로그인된 유저들"
+msgstr "지난 15분에 이 게시판을 방문한 로그인된 유저들"
 
 #: r2/templates/subredditinfobar.html:59
 msgid "you are no longer an approved submitter"
@@ -9065,11 +9066,11 @@ msgstr "승인된 게시자 좀 그만되세요?"
 #: r2/templates/subredditinfobar.html:61
 #, python-format
 msgid "you are an approved submitter on this subreddit. (%(leave)s)"
-msgstr "당신은 이 레딧에서 승인된 게시자입니다. (%(leave)s)"
+msgstr "당신은 이 게시판에서 승인된 게시자입니다. (%(leave)s)"
 
 #: r2/templates/subredditinfobar.html:73
 msgid "Show this subreddit's theme"
-msgstr "이 서브레딧의 테마 보이기"
+msgstr "이 게시판의 테마 보이기"
 
 #: r2/templates/subredditinfobar.html:93
 msgid "a community for"
@@ -9077,11 +9078,11 @@ msgstr "----------for.... something????--------------을 위한 커뮤니티"
 
 #: r2/templates/subredditinfobar.html:107
 msgid "approve this subreddit"
-msgstr "이 서브레딧 승인하기"
+msgstr "이 게시판 승인하기"
 
 #: r2/templates/subredditinfobar.html:137
 msgid "ban this subreddit"
-msgstr "이 서브레딧을 금지하기"
+msgstr "이 게시판을 금지하기"
 
 #: r2/templates/subredditstylesheet.html:55 r2/templates/wikieditpage.html:49
 msgid "reason for revision"
@@ -9154,7 +9155,7 @@ msgstr "Enter one subreddit per line. Traffic numbers shown are for the last ful
 
 #: r2/templates/subreddittrafficreport.html:39
 msgid "subreddit traffic"
-msgstr "서브레딧 트래픽"
+msgstr "게시판 트래픽"
 
 #: r2/templates/subreddittrafficreport.html:63
 msgid "not found"
@@ -9206,7 +9207,7 @@ msgstr "존재하지않습니다"
 
 #: r2/templates/trendingsubredditsbar.html:27
 msgid "trending subreddits"
-msgstr "최근 뜨는 서브레딧"
+msgstr "최근 뜨는 게시판"
 
 #: r2/templates/trophycase.html:57
 msgid "dust"
@@ -9537,7 +9538,7 @@ msgstr "submit a discussion"
 #: r2/templates/wikipagenotfound.html:23
 #, python-format
 msgid "The page \"%s\" was not found in this subreddit."
-msgstr "%s 페이지는 이 서브레딧에 존재하지 않습니다."
+msgstr "%s 페이지는 이 게시판에 존재하지 않습니다."
 
 #: r2/templates/wikipagenotfound.html:24
 #, python-format
