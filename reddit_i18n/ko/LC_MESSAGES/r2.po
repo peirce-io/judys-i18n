@@ -1269,7 +1269,7 @@ msgstr "해당 사용자로서 로그인되지 않았습니다."
 
 #: r2/lib/errors.py:49
 msgid "you are not friends with that user"
-msgstr "당신의 그 사용자와 친구가 아닙니다"
+msgstr "당신은 그 사용자와 친구가 아닙니다"
 
 #: r2/lib/errors.py:50
 msgid "you are already signed in"
@@ -1418,7 +1418,7 @@ msgstr "너무 자주 하시고 계십니다. 잠시 후에 다시 시도하세�
 
 #: r2/lib/errors.py:85
 msgid "your session has expired"
-msgstr "시간이 많이 지나서 로그인이 만료되었습니다  ???"
+msgstr "로그인 세션이 만료되었습니다"
 
 #: r2/lib/errors.py:86
 msgid "you must accept the terms first"
