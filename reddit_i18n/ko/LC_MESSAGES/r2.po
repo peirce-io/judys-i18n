@@ -2613,7 +2613,7 @@ msgstr "아래는 당신이 관리자 권한을 가진 게시판들입니다"
 
 #: r2/lib/strings.py:96
 msgid "click the `subscribe` or `unsubscribe` buttons to choose which subreddits appear on your front page."
-msgstr "click the `subscribe` or `unsubscribe` buttons to choose which subreddits appear on your front page."
+msgstr "`구독` 또는 `구독취소`버튼을 클릭하여 어떤 게시판이 프론트페이지로 구독될지를 선택하세요"
 
 #: r2/lib/strings.py:98
 #, python-format
