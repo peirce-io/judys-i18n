@@ -2507,7 +2507,7 @@ msgstr "관리자 메일을 읽고 답장하기"
 
 #: r2/lib/permissions.py:93
 msgid "use the approve, remove, spam, distinguish, and nsfw buttons"
-msgstr "승인, 삭제, 스팸, 구별, 그리고 19금 단추를 사용하세요"
+msgstr "승인, 삭제, 스팸, 구별, 그리고 후방주의 단추를 사용하세요"
 
 #: r2/lib/permissions.py:98
 msgid "manage the wiki and access to the wiki"
@@ -4364,7 +4364,7 @@ msgstr "구별하요"
 
 #: r2/models/modaction.py:80
 msgid "mark nsfw"
-msgstr "nsfw(안전하지 않은 게시물) 표시"
+msgstr "nsfw(후방주의) 표시"
 
 #: r2/models/modaction.py:81
 msgid "ban from wiki"
@@ -4505,7 +4505,7 @@ msgstr "구별되었습니다"
 
 #: r2/models/modaction.py:119
 msgid "marked nsfw"
-msgstr "표시된 nsfw(안전하지 않은 게시물)"
+msgstr "표시된 nsfw(후방주의)"
 
 #: r2/models/modaction.py:120
 msgid "ignored reports"
@@ -4896,7 +4896,7 @@ msgstr "포스트 관리"
 
 #: r2/models/token.py:164
 msgid "Approve, remove, mark nsfw, and distinguish content in subreddits I moderate."
-msgstr "내가 관리하는 게시판의 내용을 승인, 삭제, 구별하거나 19금 마크를 다십시오."
+msgstr "내가 관리하는 게시판의 내용을 승인, 삭제, 구별하거나 후방주의 마크를 다십시오."
 
 #: r2/models/token.py:170
 msgid "Moderate Subreddit Configuration"
@@ -6122,7 +6122,7 @@ msgstr "개인화됨"
 
 #: r2/templates/exploreitemlisting.html:48 r2/templates/printablebuttons.html:65
 msgid "nsfw"
-msgstr "안전하지 않은 게시물 표기"
+msgstr "후방주의 표기"
 
 #: r2/templates/exploreitemlisting.html:52
 msgid "apply"
@@ -7681,7 +7681,7 @@ msgstr "수위 낮추기"
 
 #: r2/templates/prefoptions.html:152
 msgid "(Don't show thumbnails next to anything labeled NSFW)"
-msgstr "(NSFW 표기된 것은 미리보기를 감춤)"
+msgstr "(후방주의 표기된 것은 미리보기를 감춤)"
 
 #: r2/templates/prefoptions.html:155
 msgid "to enable thumbnails, disable compressed link display"
@@ -7874,7 +7874,7 @@ msgstr "required to view some subreddits"
 
 #: r2/templates/prefoptions.html:311
 msgid "label posts that are not safe for work (NSFW)"
-msgstr "NSFW게시물(안전하지 않은 게시물) 표시"
+msgstr "후방주의 게시물 표시"
 
 #: r2/templates/prefoptions.html:313
 msgid "enable private RSS feeds"
@@ -8122,7 +8122,7 @@ msgstr "표가있는"
 
 #: r2/templates/printablebuttons.html:68
 msgid "un-nsfw"
-msgstr "안전하지 않은 게시물 표기취소"
+msgstr "후방주의 취소"
 
 #: r2/templates/printablebuttons.html:68
 msgid "unmarked"
@@ -8904,7 +8904,7 @@ msgstr "글 포스트 포함(또는 제외)"
 
 #: r2/templates/searchform.html:47
 msgid "include (or exclude) results marked as NSFW"
-msgstr "19금으로 표시된 결과 포함 (또는 제외)"
+msgstr "후방주의로 표시된 결과 포함 (또는 제외)"
 
 #: r2/templates/searchform.html:51
 msgid "see the search faq for details."
