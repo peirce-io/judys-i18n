@@ -7261,6 +7261,18 @@ msgstr "이것을 보기 위해서는 18세 이상이 되어야 합니다."
 msgid "are you over eighteen and willing to see adult content?"
 msgstr "본인은 만 19세 이상이며 성인 자료를 보기를 희망하십니까?"
 
+#: r2/templates/over18interstitial.html:38
+msgid "You must be 18+ to view this community"
+msgstr "이 게시판은 미성년자의 접근이 제한되어 있습니다"
+
+#: r2/templates/over18interstitial.html:38
+msgid "You must be at least eighteen years old to view this content. Are you over eighteen and willing to see adult content?"
+msgstr "이 게시판을 이용하기 위해서는 로그인과 성인인증이 필요합니다. 계속 진행하시겠습니까?"
+
+#: r2/templates/over18interstitial.html:58
+msgid "no thank you"
+msgstr "뒤로가기"
+
 #: r2/templates/pagenamenav.html:48
 msgid "This is an [internationalized domain name](http://en.wikipedia.org/wiki/Internationalized_domain_name).  We've modified how it is displayed [for security reasons](http://en.wikipedia.org/wiki/IDN_homograph_attack)."
 msgstr "This is an [internationalized domain name](http://en.wikipedia.org/wiki/Internationalized_domain_name).  We've modified how it is displayed [for security reasons](http://en.wikipedia.org/wiki/IDN_homograph_attack)."
