@@ -2455,7 +2455,7 @@ msgstr "구독한 게시판에서 랜덤 포스트"
 
 #: r2/lib/menus.py:606
 msgid "(suggested)"
-msgstr "(suggested)"
+msgstr "(권장)"
 
 #: r2/lib/menus.py:644
 msgid "kind"
@@ -4409,7 +4409,7 @@ msgstr "권한"
 
 #: r2/models/modaction.py:91 r2/models/modaction.py:123
 msgid "set suggested sort"
-msgstr "set suggested sort"
+msgstr "댓글 정렬 방식"
 
 #: r2/models/modaction.py:92
 msgid "sticky post"
@@ -5883,11 +5883,11 @@ msgstr "텍스트/자신의 포스트만 허용됩니다"
 
 #: r2/templates/createsubreddit.html:194
 msgid "Custom label for submit link button (blank for default):"
-msgstr "Custom label for submit link button (blank for default):"
+msgstr "'새 링크 올리기' 버튼 글자 바꾸기:"
 
 #: r2/templates/createsubreddit.html:202
 msgid "Custom label for submit text post button (blank for default):"
-msgstr "Custom label for submit text post button (blank for default):"
+msgstr "'새 글 올리기' 버튼 글자 바꾸기:"
 
 #: r2/templates/createsubreddit.html:214
 msgid "disabled"
@@ -5899,7 +5899,7 @@ msgstr "관리자 외에 사용할 수 없습니다"
 
 #: r2/templates/createsubreddit.html:217
 msgid "mod editing"
-msgstr "관리자가 현재 수정 중입니다"
+msgstr "관리자만 수정"
 
 #: r2/templates/createsubreddit.html:218
 msgid "Only mods, approved wiki contributors, or those on a page's edit list may edit"
@@ -5955,7 +5955,7 @@ msgstr "이용자 연령 18세 이상으로 제한"
 
 #: r2/templates/createsubreddit.html:313
 msgid "allow this subreddit to be included /r/all as well as the default and trending lists"
-msgstr "allow this subreddit to be included /r/all as well as the default and trending lists"
+msgstr "전체 게시판(/r/all)에서 숨기지 않기"
 
 #: r2/templates/createsubreddit.html:324
 msgid "show thumbnail images of content"
@@ -5963,31 +5963,31 @@ msgstr "내용에 섬네일 보이기"
 
 #: r2/templates/createsubreddit.html:335
 msgid "exclude posts by site-wide banned users from modqueue/unmoderated"
-msgstr "exclude posts by site-wide banned users from modqueue/unmoderated"
+msgstr "글올리기가 금지된 사용자의 게시물을 제외하기"
 
 #: r2/templates/createsubreddit.html:343
 msgid "make the traffic stats page available to everyone"
-msgstr "make the traffic stats page available to everyone"
+msgstr "모든 사용자에게 트래픽 통계 페이지 보여주기"
 
 #: r2/templates/createsubreddit.html:354
 msgid "collapse deleted and removed comments"
-msgstr "collapse deleted and removed comments"
+msgstr "삭제된 댓글 숨기기"
 
 #: r2/templates/createsubreddit.html:366
 msgid "hide ads (only available for gold only subreddits)"
-msgstr "hide ads (only available for gold only subreddits)"
+msgstr "광고 숨기기"
 
 #: r2/templates/createsubreddit.html:374
 msgid "suggested comment sort"
-msgstr "suggested comment sort"
+msgstr "댓글 정렬 방식"
 
 #: r2/templates/createsubreddit.html:374
 msgid "(all comment threads will use this sorting method by default)"
-msgstr "(all comment threads will use this sorting method by default)"
+msgstr "(모든 댓글은 이 방식으로 정렬됩니다)"
 
 #: r2/templates/createsubreddit.html:376
 msgid "none (recommended for most subreddits)"
-msgstr "none (recommended for most subreddits)"
+msgstr "정렬하지 않기(권장방식)"
 
 #: r2/templates/createsubreddit.html:386
 msgid "Minutes to hide comment scores:"
@@ -6052,7 +6052,7 @@ msgstr "remove custom icon image"
 
 #: r2/templates/createsubreddit.html:588
 msgid "header image"
-msgstr "header image"
+msgstr "헤더 이미지"
 
 #: r2/templates/createsubreddit.html:588
 msgid "header should have 16:9 aspect ratio. PNG or JPG only."
@@ -6814,7 +6814,7 @@ msgstr "이 컴퓨터에서 나를 기억"
 
 #: r2/templates/login.html:132 r2/templates/register.html:132
 msgid "get the best of reddit emailed to you once a week."
-msgstr "get the best of reddit emailed to you once a week."
+msgstr "일주일에 한 번 메일을 받아보세요."
 
 #: r2/templates/login.html:133 r2/templates/register.html:133
 #: r2/templates/welcomebar.html:27
@@ -7196,15 +7196,15 @@ msgstr "구독"
 
 #: r2/templates/newsletter.html:67
 msgid "More Info"
-msgstr "More Info"
+msgstr "자세한 정보"
 
 #: r2/templates/newsletterbar.html:31
 msgid "subscribe to our newsletter"
-msgstr "subscribe to our newsletter"
+msgstr "주디스 뉴스 구독하기"
 
 #: r2/templates/newsletterbar.html:34
 msgid "get the best of reddit, delivered once a week"
-msgstr "get the best of reddit, delivered once a week"
+msgstr "일주일에 한 번 주디스 소식을 받아보세요."
 
 #: r2/templates/oauth2authorization.html:46
 #, python-format
