@@ -1650,19 +1650,19 @@ msgstr "%(reason)s"
 
 #: r2/lib/errors.py:144
 msgid "that multireddit doesn't exist"
-msgstr "Multireddit이 존재하지 않습니다."
+msgstr "게시판모음이 존재하지 않습니다."
 
 #: r2/lib/errors.py:145
 msgid "that multireddit already exists"
-msgstr "이미 존재하는 Multireddit입니다."
+msgstr "이미 존재하는 게시판모음입니다."
 
 #: r2/lib/errors.py:146
 msgid "you can't change that multireddit"
-msgstr "바꿀 수 없는 Multireddit입니다."
+msgstr "바꿀 수 없는 게시판모음입니다."
 
 #: r2/lib/errors.py:147
 msgid "no more space for subreddits in that multireddit"
-msgstr "Multireddit에 게시판을 추가할 공간이 더 이상 없습니다."
+msgstr "게시판모음에 게시판을 추가할 공간이 더 이상 없습니다."
 
 #: r2/lib/errors.py:148
 #, python-format
@@ -3357,7 +3357,7 @@ msgstr "공용 게시판모음"
 
 #: r2/lib/pages/pages.py:2183
 msgid "hidden multireddits"
-msgstr "hidden multireddits"
+msgstr "숨겨진 게시판모음"
 
 #: r2/lib/pages/pages.py:2203
 msgid "moderator of"
