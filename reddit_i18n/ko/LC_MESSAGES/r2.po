@@ -4178,7 +4178,7 @@ msgstr "승인된 위키 편집자 추가"
 
 #: r2/models/listing.py:243 r2/models/modaction.py:72
 msgid "invite moderator"
-msgstr "관리자 초청"
+msgstr "관리자 초대"
 
 #: r2/models/listing.py:244 r2/templates/modlisting.html:33
 #, python-format
@@ -6193,7 +6193,7 @@ msgstr "CSS 클래스"
 #: r2/templates/userlisting.html:108
 #: ../../reddit-plugin-liveupdate/reddit_liveupdate/templates/liveupdateutils.html:11
 msgid "prev"
-msgstr "전 페이지"
+msgstr "이전"
 
 #: r2/templates/flairnextlink.html:25 r2/templates/listing.html:51
 #: r2/templates/promotedlinktraffic.html:92 r2/templates/promotelinknew.html:63
@@ -6201,7 +6201,7 @@ msgstr "전 페이지"
 #: r2/templates/tablelisting.html:59 r2/templates/userlisting.html:114
 #: ../../reddit-plugin-liveupdate/reddit_liveupdate/templates/liveupdateutils.html:17
 msgid "next"
-msgstr "다음 페이지"
+msgstr "다음"
 
 #: r2/templates/flairpane.html:25
 msgid "flair settings"
