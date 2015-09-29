@@ -8130,7 +8130,7 @@ msgstr "신고"
 
 #: r2/templates/printablebuttons.html:65
 msgid "marked"
-msgstr "표가있는"
+msgstr "후방주의"
 
 #: r2/templates/printablebuttons.html:68
 msgid "un-nsfw"
@@ -8138,7 +8138,7 @@ msgstr "후방주의 취소"
 
 #: r2/templates/printablebuttons.html:68
 msgid "unmarked"
-msgstr "표가없는"
+msgstr "표시없음"
 
 #: r2/templates/printablebuttons.html:77
 msgid "retry thumb"
