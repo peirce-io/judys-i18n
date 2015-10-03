@@ -9622,7 +9622,7 @@ msgstr "revision by %(user)s"
 
 #: r2/templates/wikiview.html:55
 msgid "view source"
-msgstr "출저 보기"
+msgstr "소스 보기"
 
 #: ../../reddit-plugin-meatspace/reddit_meatspace/__init__.py:19
 msgid "you can't connect with yourself"
