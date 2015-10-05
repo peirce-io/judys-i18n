@@ -5762,7 +5762,7 @@ msgstr "\n"
 
 #: r2/templates/createsubreddit.html:53
 msgid "no spaces, e.g., slashdot"
-msgstr "공백없이 영문자로만 이루어져 있어야 합니다"
+msgstr "공백없이 한글(두자이상), 영문자(세자이상), 숫자, 밑줄로만 이루어져 있어야 합니다"
 
 #: r2/templates/createsubreddit.html:53 r2/templates/goldpayment.html:167
 #: r2/templates/listingchooser.html:60 r2/templates/prefapps.html:139
