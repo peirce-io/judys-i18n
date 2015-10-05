@@ -2112,7 +2112,7 @@ msgstr "자주 묻는 질문 및 답변"
 
 #: r2/lib/menus.py:86 r2/templates/usertext.html:155
 msgid "reddiquette"
-msgstr "레디켓"
+msgstr "주디켓"
 
 #: r2/lib/menus.py:88
 msgid "buttons"
@@ -7163,7 +7163,7 @@ msgstr "몇가지 규칙"
 
 #: r2/templates/newlink.html:139
 msgid "good reddiquette"
-msgstr "좋은 레디켓"
+msgstr "좋은 주디켓"
 
 #: r2/templates/newsletter.html:33
 msgid "reddit newsletter - upvoted weekly"
