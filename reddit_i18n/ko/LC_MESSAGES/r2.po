@@ -8850,32 +8850,32 @@ msgstr "삭제"
 
 #: r2/templates/reportform.html:28
 msgid "why are you reporting this?"
-msgstr "why are you reporting this?"
+msgstr "신고이유"
 
 #: r2/templates/reportform.html:38
 #: ../../reddit-plugin-liveupdate/reddit_liveupdate/pages.py:229
 msgid "vote manipulation"
-msgstr "vote manipulation"
+msgstr "추천유도"
 
 #: r2/templates/reportform.html:43
 #: ../../reddit-plugin-liveupdate/reddit_liveupdate/pages.py:230
 msgid "personal information"
-msgstr "personal information"
+msgstr "개인정보유출"
 
 #: r2/templates/reportform.html:48
 #: ../../reddit-plugin-liveupdate/reddit_liveupdate/pages.py:231
 msgid "sexualizing minors"
-msgstr "sexualizing minors"
+msgstr "아동에 대한 성대상화"
 
 #: r2/templates/reportform.html:53
 #: ../../reddit-plugin-liveupdate/reddit_liveupdate/pages.py:232
 msgid "breaking reddit"
-msgstr "breaking reddit"
+msgstr "심각한 주디스 규칙위반"
 
 #: r2/templates/reportform.html:59
 #, python-format
 msgid "other (max %(num)s characters):"
-msgstr "other (max %(num)s characters):"
+msgstr "기타 (%(num)s자 이내):"
 
 #: r2/templates/rulespage.html:111
 msgid "here at reddit, we inscribe our rules on a brick. screw tablets."
