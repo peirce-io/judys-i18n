@@ -3945,7 +3945,7 @@ msgstr "당신 주디스 골드 구독기간이 곧 완료됩니다."
 #: r2/models/builder.py:124 r2/templates/message.html:76
 #, python-format
 msgid "moderator of /r/%(reddit)s, speaking officially"
-msgstr "/r/%(reddit)s의 관리자, 공식적인 발언입니다"
+msgstr "/r/%(reddit)s 의 관리자, 공식적인 발언입니다"
 
 #: r2/models/builder.py:195
 #, python-format
@@ -6102,7 +6102,7 @@ msgstr "Felicitations on this momentous occasion!"
 #: r2/templates/errorpage.html:41
 #, python-format
 msgid "a message from the moderators of /r/%s"
-msgstr "/r/%s의 관리자에게서 온 메시지"
+msgstr "/r/%s 의 관리자에게서 온 메시지"
 
 #: r2/templates/errorpage.html:48
 msgid "send a message to the moderators"
@@ -9720,7 +9720,7 @@ msgstr "연결 보기"
 
 #: ../../reddit-plugin-meatspace/reddit_meatspace/templates/closedmeetupportal.html:19
 msgid "**This meetup is closed. Keep an eye on /r/blog for announcements of new meetups.**"
-msgstr "**이 회의는 종료되었습니다. /r/blog 에서 다음 회의의 공지가 올라옵니다.**"
+msgstr "**이 회의는 종료되었습니다. /r/블로그 에서 다음 회의의 공지가 올라옵니다.**"
 
 #: ../../reddit-plugin-meatspace/reddit_meatspace/templates/conversationstarterselector.html:5
 msgid "Choose a fact about your account to put on your badge."
