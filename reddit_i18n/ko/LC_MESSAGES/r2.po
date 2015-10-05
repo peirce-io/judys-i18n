@@ -5727,7 +5727,7 @@ msgstr "댓글 보이기"
 
 #: r2/templates/comment.xml:46
 msgid "on"
-msgstr "에"
+msgstr "on"
 
 #: r2/templates/commentvisitsbox.html:31
 msgid "Highlight comments posted since previous visit:"
@@ -6895,7 +6895,7 @@ msgstr "(username, or /r/name for that subreddit's mods)"
 
 #: r2/templates/messagecompose.html:54
 msgid "to"
-msgstr "에"
+msgstr "수신자"
 
 #: r2/templates/messagecompose.html:69
 msgid "subject"
