@@ -939,7 +939,7 @@ msgstr "이 게시판의 gilding은 주디스 서버의 %(time)s 시간만큼을
 #: r2/controllers/multi.py:350
 #, python-format
 msgid "copied from %(source)s"
-msgstr "%(source)s에서 복사됨"
+msgstr "%(source)s 에서 복사됨"
 
 #: r2/controllers/oembed.py:66
 msgid "[account deleted]"
@@ -2754,7 +2754,7 @@ msgid "reddit gold is reddit's premium membership program. Here are the benefits
 msgstr "주디스 골드는 주디스의 프리미엄 멤버쉽 프로그램입니다. 주디스 골드의 좋은 점:\n\n"
 "* [더 많은 사이트 기능](/gold/about)\n"
 "* [더 많은 것들](/gold/partners)\n"
-"* /r/goldbenefits에서 주디스 골드의 기능에 대한 도움말을 얻으세요."
+"* /r/goldbenefits 에서 주디스 골드의 기능에 대한 도움말을 얻으세요."
 
 #: r2/lib/strings.py:135
 msgid "Grab a drink and join us in /r/lounge, the super-secret members-only community that may or may not exist."
@@ -2933,7 +2933,7 @@ msgstr "내가 관리하는 게시판모음"
 
 #: r2/lib/strings.py:185
 msgid "/r/all displays content from all of reddit, including subreddits you aren't subscribed to. Some subreddits have chosen to exclude themselves from /r/all."
-msgstr "/r/all에서는 자신이 구독하지 않는 게시판까지 포함한 모든 게시물을 볼 수 있습니다. 단 보이지 않도록 설정된 게시판은 제외합니다."
+msgstr "/r/all 에서는 자신이 구독하지 않는 게시판까지 포함한 모든 게시물을 볼 수 있습니다. 단 보이지 않도록 설정된 게시판은 제외합니다."
 
 #: r2/lib/strings.py:186
 msgid "Displaying content from /r/all of reddit, except the following subreddits:"
@@ -4147,7 +4147,7 @@ msgstr "차단된 사용자"
 #: r2/models/listing.py:192
 #, python-format
 msgid "users banned from /r/%(subreddit)s"
-msgstr "/r/%(subreddit)s에서 차단된 사용자"
+msgstr "/r/%(subreddit)s 에서 차단된 사용자"
 
 #: r2/models/listing.py:210
 msgid "ban wiki contibutors"
@@ -5530,7 +5530,7 @@ msgstr ".link .entry .comments:after { content: \" 개\" } .link .entry .comment
 #: r2/templates/base.htmllite:89
 #, python-format
 msgid "links from %(site)s"
-msgstr "%(site)s에서 온 링크"
+msgstr "%(site)s 에서 온 링크"
 
 #: r2/templates/bookmarklets.html:32
 #, python-format
@@ -5999,7 +5999,7 @@ msgstr "커스텀 CSS 스타일은 cname 에서 접근되었을 때 만 적용�
 
 #: r2/templates/createsubreddit.html:419
 msgid "show sidebar when accessed from the cname."
-msgstr "CNAME에서 접속했을시 사이드바 보이기"
+msgstr "CNAME 에서 접속했을시 사이드바 보이기"
 
 #: r2/templates/createsubreddit.html:431 r2/templates/usertext.html:151
 #: r2/templates/wikieditpage.html:46
@@ -6996,7 +6996,7 @@ msgstr "관리자를 맡아달라는 초청을 받으셨습니다. %(action)s"
 
 #: r2/templates/modsrinfobar.html:31
 msgid "/r/mod shows only subreddits you moderate."
-msgstr "/r/mod에서는 자신이 관리자인 게시판들만 보여줍니다."
+msgstr "/r/mod 에서는 자신이 관리자인 게시판들만 보여줍니다."
 
 #: r2/templates/modsrinfobar.html:34
 msgid "filter out subreddits"
@@ -8933,7 +8933,7 @@ msgstr "Search"
 #: r2/templates/searchform.html:79 r2/templates/searchform.html:88
 #, python-format
 msgid "limit my search to %(path)s"
-msgstr "%(path)s에서만 검색"
+msgstr "%(path)s 에서만 검색"
 
 #: r2/templates/searchresultlink.html:99
 msgid "by"
@@ -9720,7 +9720,7 @@ msgstr "연결 보기"
 
 #: ../../reddit-plugin-meatspace/reddit_meatspace/templates/closedmeetupportal.html:19
 msgid "**This meetup is closed. Keep an eye on /r/blog for announcements of new meetups.**"
-msgstr "**이 회의는 종료되었습니다. /r/blog에서 다음 회의의 공지가 올라옵니다.**"
+msgstr "**이 회의는 종료되었습니다. /r/blog 에서 다음 회의의 공지가 올라옵니다.**"
 
 #: ../../reddit-plugin-meatspace/reddit_meatspace/templates/conversationstarterselector.html:5
 msgid "Choose a fact about your account to put on your badge."
