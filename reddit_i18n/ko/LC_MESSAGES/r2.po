@@ -10367,3 +10367,8 @@ msgstr "create your own snoovatar [here](/user/%(username)s/snoo)"
 msgid "[create your own snoovatar with **reddit gold**](/gold?source=snoovatar)"
 msgstr "[create your own snoovatar with **reddit gold**](/gold?source=snoovatar)"
 
+msgid "Appears in search results and social media links. 500 characters max."
+msgstr "검색 결과와 소셜 미디어 링크에서 게시판 설명으로 표시됩니다. 최대 500자."
+
+msgid "only reddit employees can view; the employee list is pulled from live config"
+msgstr "오직 주디스 직원만 볼 수 있습니다; 주디스 직원 리스트는 동적 설정에서 가져올 수 있습니다."
