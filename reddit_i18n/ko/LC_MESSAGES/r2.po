@@ -1190,8 +1190,7 @@ msgstr "username notification"
 #: r2/lib/emailer.py:232 r2/lib/strings.py:270 r2/lib/pages/pages.py:1250
 #: r2/templates/messagecompose.html:79
 msgid "message"
-msgid_plural "messages"
-msgstr[0] "메세지"
+msgstr "메세지"
 
 #: r2/lib/errors.py:31
 msgid "please sign in to do that"
@@ -5835,11 +5834,11 @@ msgstr "누구나 볼 수 있지만 주디스 골드 멤버들만 등록하거�
 
 #: r2/templates/createsubreddit.html:149
 msgid "employees only"
-msgstr "employees only"
+msgstr "직원 전용"
 
 #: r2/templates/createsubreddit.html:150
 msgid "only reddit employees can view; the employee list is pulled from live config"
-msgstr "only reddit employees can view; the employee list is pulled from live config"
+msgstr "오직 주디스 직원만 볼 수 있습니다; 주디스 직원 리스트는 동적 설정에서 가져올 수 있습니다."
 
 #: r2/templates/createsubreddit.html:160
 msgid "If you switch this subreddit to another type, you will not be able to switch back to \"gold only\" without the assistance of an admin"
@@ -6891,7 +6890,7 @@ msgstr "메세지 보내기"
 
 #: r2/templates/messagecompose.html:54
 msgid "(username, or /r/name for that subreddit's mods)"
-msgstr "(username, or /r/name for that subreddit's mods)"
+msgstr "(아이디 또는 /r/게시판이름)"
 
 #: r2/templates/messagecompose.html:54
 msgid "to"
@@ -10370,5 +10369,8 @@ msgstr "[create your own snoovatar with **reddit gold**](/gold?source=snoovatar)
 msgid "Appears in search results and social media links. 500 characters max."
 msgstr "검색 결과와 소셜 미디어 링크에서 게시판 설명으로 표시됩니다. 최대 500자."
 
-msgid "only reddit employees can view; the employee list is pulled from live config"
-msgstr "오직 주디스 직원만 볼 수 있습니다; 주디스 직원 리스트는 동적 설정에서 가져올 수 있습니다."
+msgid "send a private message"
+msgstr "메시지 보내기"
+
+msgid "source_code"
+msgstr "소스 코드"
